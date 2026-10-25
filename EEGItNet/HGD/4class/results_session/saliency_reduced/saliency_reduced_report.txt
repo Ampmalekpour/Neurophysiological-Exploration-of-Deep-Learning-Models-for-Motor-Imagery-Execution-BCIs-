@@ -1,0 +1,49 @@
+EEG-ITNet - HGD - SALIENCY 12-channel (LOSO) - 4class
+================================================================================
+
+Subject 01: 63.12%  | montage: C3, C4, CP3, C2, CP1, C1, FC1, CP5, C6, CPz, FC2, Pz
+    seed -1 fold 1: 63.12% (majority-class 25.0%)
+Subject 02: 71.25%  | montage: C3, C4, C2, CP3, CP1, C1, CP5, CPz, C6, Pz, CP2, FC1
+    seed -1 fold 1: 71.25% (majority-class 25.0%)
+Subject 03: 95.62%  | montage: C3, C4, CP3, C2, C1, CP1, C6, FC1, CP5, FCz, FC2, Pz
+    seed -1 fold 1: 95.62% (majority-class 25.0%)
+Subject 04: 85.00%  | montage: C3, C4, CP3, C2, CP1, CP5, C1, C6, CPz, FC1, Pz, CP2
+    seed -1 fold 1: 85.00% (majority-class 25.0%)
+Subject 05: 83.75%  | montage: C3, C4, CP3, C2, CP1, C1, FC1, CP5, CPz, C6, CP2, FC2
+    seed -1 fold 1: 83.75% (majority-class 25.0%)
+Subject 06: 80.00%  | montage: C3, C4, C2, CP3, CP1, C1, CP5, FC1, C6, CPz, FC2, FC6
+    seed -1 fold 1: 80.00% (majority-class 25.0%)
+Subject 07: 71.25%  | montage: C3, C4, CP3, CP1, C2, C1, CP5, FC1, C6, Pz, CPz, FC6
+    seed -1 fold 1: 71.25% (majority-class 25.0%)
+Subject 08: 91.25%  | montage: C3, C4, CP3, C2, CP1, C1, CP5, C6, CPz, FC1, Pz, FC2
+    seed -1 fold 1: 91.25% (majority-class 25.0%)
+Subject 09: 81.88%  | montage: C3, C4, CP3, CP1, C2, C6, CP5, FC1, C1, FC2, Pz, FC6
+    seed -1 fold 1: 81.88% (majority-class 25.0%)
+Subject 10: 88.75%  | montage: C3, C4, CP3, C2, CP1, C1, CP5, FC1, Pz, CPz, FC2, FC6
+    seed -1 fold 1: 88.75% (majority-class 25.0%)
+Subject 11: 68.75%  | montage: C3, C4, C2, CP3, C1, CP1, C6, FC1, CP5, CPz, Pz, FC4
+    seed -1 fold 1: 68.75% (majority-class 25.0%)
+Subject 12: 93.75%  | montage: C3, C4, CP3, C2, CP1, C6, CP5, C1, FC1, CPz, CP2, FC2
+    seed -1 fold 1: 93.75% (majority-class 25.0%)
+Subject 13: 81.25%  | montage: C3, C4, C2, CP3, C1, CP1, CP5, C6, FC1, CPz, CP2, Pz
+    seed -1 fold 1: 81.25% (majority-class 25.0%)
+Subject 14: 95.62%  | montage: C3, C4, CP3, CP1, C2, C1, CP5, C6, FC1, Pz, CPz, FC2
+    seed -1 fold 1: 95.62% (majority-class 25.0%)
+
+GRAND MEAN: 82.23% +/- 10.45% (SD across subjects)
+chance 25.0% | mean majority-class 25.0%
+
+Attribution methods used: all
+Alignment (participant-level mean [95% CI]):
+                  grad magnitude_pearson        +0.125 [-0.024, +0.274] n=14
+                  grad class_specific_pearson   +0.106 [-0.035, +0.247] n=14
+                  grad lateralisation_pearson   +0.096 [-0.063, +0.256] n=14
+          grad_x_input magnitude_pearson        +0.297 [+0.145, +0.450] n=14
+          grad_x_input class_specific_pearson   +0.182 [+0.038, +0.325] n=14
+          grad_x_input lateralisation_pearson   -0.095 [-0.270, +0.079] n=14
+  integrated_gradients magnitude_pearson        +0.298 [+0.141, +0.454] n=14
+  integrated_gradients class_specific_pearson   +0.120 [-0.030, +0.270] n=14
+  integrated_gradients lateralisation_pearson   -0.247 [-0.443, -0.051] n=14
+            smoothgrad magnitude_pearson        +0.127 [-0.026, +0.279] n=14
+            smoothgrad class_specific_pearson   +0.116 [-0.027, +0.260] n=14
+            smoothgrad lateralisation_pearson   +0.104 [-0.052, +0.260] n=14

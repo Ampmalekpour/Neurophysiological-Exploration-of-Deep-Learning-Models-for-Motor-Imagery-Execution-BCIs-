@@ -1,0 +1,25 @@
+Dataset,Task,Model,Top-ranked removed (pp),Random removed (pp),Bottom-ranked removed (pp),p (top vs random),Randomisation ρ
+HGD,4-class,EEGConformer,+31.24,+15.19,+8.14,<0.0001,-0.05
+HGD,4-class,Deep4Net,+31.92,+7.81,+0.36,<0.0001,-0.09
+HGD,4-class,EEG-ITNet,+28.17,+12.76,+3.59,<0.0001,0.27
+HGD,4-class,EEGNetv4,+33.05,+15.27,+2.81,<0.0001,0.02
+HGD,2-class,EEGConformer,+17.62,+12.14,+4.11,0.0082,0.02
+HGD,2-class,Deep4Net,+16.46,+3.83,+0.39,0.0034,-0.13
+HGD,2-class,EEG-ITNet,+13.21,+6.46,+1.34,0.0104,0.38
+HGD,2-class,EEGNetv4,+17.77,+9.43,+3.39,0.0017,-0.01
+BNCI2014-001,4-class,EEGConformer,+17.09,+15.57,+12.27,0.3495,-0.06
+BNCI2014-001,4-class,Deep4Net,+8.53,+2.35,+0.23,0.0433,-0.05
+BNCI2014-001,4-class,EEG-ITNet,+5.80,+3.58,+0.98,0.0158,0.05
+BNCI2014-001,4-class,EEGNetv4,+21.06,+13.99,+6.84,0.0052,-0.03
+BNCI2014-001,2-class,EEGConformer,+9.47,+6.08,+4.40,0.0875,0.06
+BNCI2014-001,2-class,Deep4Net,+6.20,+0.99,+0.08,0.1266,0.03
+BNCI2014-001,2-class,EEG-ITNet,+5.89,+2.45,+0.90,0.0152,0.07
+BNCI2014-001,2-class,EEGNetv4,+4.73,+0.70,+0.28,0.0806,0.03
+PhysioNet,4-class,EEGConformer,+0.76,+0.38,-0.05,0.2854,0.02
+PhysioNet,4-class,Deep4Net,+0.70,+0.16,+0.05,0.0050,0.10
+PhysioNet,4-class,EEG-ITNet,+0.17,+0.19,+0.23,0.9091,0.02
+PhysioNet,4-class,EEGNetv4,+0.58,+0.26,+0.21,0.2492,0.04
+PhysioNet,2-class,EEGConformer,+0.93,+0.71,+0.25,0.5971,-0.00
+PhysioNet,2-class,Deep4Net,+0.11,+0.18,+0.17,0.5705,0.16
+PhysioNet,2-class,EEG-ITNet,+0.25,+0.07,+0.04,0.6514,0.03
+PhysioNet,2-class,EEGNetv4,+1.06,+0.20,+0.53,0.0133,0.04

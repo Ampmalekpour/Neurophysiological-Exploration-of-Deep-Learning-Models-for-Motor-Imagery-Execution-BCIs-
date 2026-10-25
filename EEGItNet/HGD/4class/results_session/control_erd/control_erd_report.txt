@@ -1,0 +1,34 @@
+EEG-ITNet - HGD - control 'control_erd' - 4class
+================================================================================
+
+Subject 01: 56.88%  | montage: C2, C4, C1, C3, CP3, CP1, CP2, Pz, CP6, CP4, CP5, CPz
+    seed -1 fold 1: 56.88% (majority-class 25.0%)
+Subject 02: 71.25%  | montage: C4, C2, C1, C3, CP3, CP1, CP2, Pz, CP6, CP4, CP5, CPz
+    seed -1 fold 1: 71.25% (majority-class 25.0%)
+Subject 03: 97.50%  | montage: C2, C4, C1, C3, CP3, CP1, CP2, Pz, CP4, CP6, CP5, CPz
+    seed -1 fold 1: 97.50% (majority-class 25.0%)
+Subject 04: 83.75%  | montage: C4, C2, C1, CP3, C3, CP1, CP2, Pz, CP6, CP4, CP5, CPz
+    seed -1 fold 1: 83.75% (majority-class 25.0%)
+Subject 05: 84.38%  | montage: C4, C2, C1, CP3, C3, CP1, CP2, CP4, Pz, CP6, CPz, CP5
+    seed -1 fold 1: 84.38% (majority-class 25.0%)
+Subject 06: 85.00%  | montage: C4, C2, C1, C3, CP3, CP2, CP1, CP6, CP4, Pz, CP5, C6
+    seed -1 fold 1: 85.00% (majority-class 25.0%)
+Subject 07: 72.50%  | montage: C4, C2, C1, C3, CP3, CP1, CP2, Pz, CP6, CP4, C6, CP5
+    seed -1 fold 1: 72.50% (majority-class 25.0%)
+Subject 08: 86.25%  | montage: C4, C2, C1, C3, CP3, CP1, CP2, CP4, Pz, CP6, CP5, CPz
+    seed -1 fold 1: 86.25% (majority-class 25.0%)
+Subject 09: 79.38%  | montage: C4, C2, C1, C3, CP3, CP1, CP2, Pz, CP4, CP6, CPz, CP5
+    seed -1 fold 1: 79.38% (majority-class 25.0%)
+Subject 10: 86.88%  | montage: C4, C2, C1, C3, CP3, CP1, CP2, Pz, CP6, CP4, CP5, CPz
+    seed -1 fold 1: 86.88% (majority-class 25.0%)
+Subject 11: 73.12%  | montage: C4, C2, C1, C3, CP3, CP1, CP2, Pz, CP6, CP4, CP5, C6
+    seed -1 fold 1: 73.12% (majority-class 25.0%)
+Subject 12: 89.38%  | montage: C4, C2, C1, C3, CP3, CP1, CP2, CP6, CP4, CP5, Pz, C6
+    seed -1 fold 1: 89.38% (majority-class 25.0%)
+Subject 13: 80.00%  | montage: C4, C2, C1, CP3, C3, CP1, CP2, Pz, CP4, CP6, CPz, CP5
+    seed -1 fold 1: 80.00% (majority-class 25.0%)
+Subject 14: 92.50%  | montage: C4, C2, C1, CP3, C3, CP1, CP2, Pz, CP6, CP4, CPz, CP5
+    seed -1 fold 1: 92.50% (majority-class 25.0%)
+
+GRAND MEAN: 81.34% +/- 10.32% (SD across subjects)
+chance 25.0% | mean majority-class 25.0%

@@ -1,0 +1,34 @@
+EEGConformer - HGD - ReliefF 12-channel (LOSO) - 4class
+================================================================================
+
+Subject 01: 83.75%  | montage: C3, C4, CP3, C1, C2, Cz, CP2, FCz, FC1, CP4, CP1, Pz
+    seed -1 fold 1: 83.75% (majority-class 25.0%)
+Subject 02: 83.12%  | montage: C3, C4, C1, CP3, C2, Cz, CP2, CP4, CP1, Pz, FCz, CPz
+    seed -1 fold 1: 83.12% (majority-class 25.0%)
+Subject 03: 96.25%  | montage: C3, C4, C1, CP3, C2, Cz, FCz, CP4, FC1, Pz, CP2, CP1
+    seed -1 fold 1: 96.25% (majority-class 25.0%)
+Subject 04: 98.12%  | montage: C3, C4, CP3, C1, C2, Cz, CP2, CP4, FCz, FC1, CP1, Pz
+    seed -1 fold 1: 98.12% (majority-class 25.0%)
+Subject 05: 91.25%  | montage: C3, C4, C1, CP3, C2, Cz, CP2, FCz, CP4, FC1, CP1, Pz
+    seed -1 fold 1: 91.25% (majority-class 25.0%)
+Subject 06: 92.50%  | montage: C3, C4, C1, CP3, C2, Cz, FCz, CP2, FC1, CP1, CP4, FC2
+    seed -1 fold 1: 92.50% (majority-class 25.0%)
+Subject 07: 85.00%  | montage: C3, C4, C1, CP3, C2, Cz, CP4, FCz, FC1, CP2, CP1, Pz
+    seed -1 fold 1: 85.00% (majority-class 25.0%)
+Subject 08: 91.25%  | montage: C3, C4, CP3, C1, C2, Cz, CP2, CP4, Pz, CP1, FCz, CP5
+    seed -1 fold 1: 91.25% (majority-class 25.0%)
+Subject 09: 75.00%  | montage: C3, C4, CP3, C1, C2, Cz, CP4, FCz, FC1, CP2, CP1, Pz
+    seed -1 fold 1: 75.00% (majority-class 25.0%)
+Subject 10: 91.88%  | montage: C3, C4, CP3, C1, C2, Cz, FCz, CP2, FC1, Pz, CP1, CP4
+    seed -1 fold 1: 91.88% (majority-class 25.0%)
+Subject 11: 76.25%  | montage: C3, C4, C1, CP3, C2, Cz, FCz, CP2, FC1, CP4, Pz, CPz
+    seed -1 fold 1: 76.25% (majority-class 25.0%)
+Subject 12: 90.62%  | montage: C3, C4, C1, CP3, C2, Cz, CP2, CP4, FC1, FCz, CP1, Pz
+    seed -1 fold 1: 90.62% (majority-class 25.0%)
+Subject 13: 88.12%  | montage: C3, C4, C1, CP3, C2, CP2, FCz, FC1, CP4, Cz, CP1, Pz
+    seed -1 fold 1: 88.12% (majority-class 25.0%)
+Subject 14: 94.38%  | montage: C3, C4, C1, CP3, C2, Cz, FCz, CP4, FC1, CP2, CP1, Pz
+    seed -1 fold 1: 94.38% (majority-class 25.0%)
+
+GRAND MEAN: 88.39% +/- 6.96% (SD across subjects)
+chance 25.0% | mean majority-class 25.0%

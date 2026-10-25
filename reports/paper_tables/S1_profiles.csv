@@ -1,0 +1,38 @@
+Dataset,Model,Profile,fs (Hz),Band (Hz),Window (s),Norm.,Kernel,Dropout,LR,WD,Scheduler,Max ep.,Batch,LS,Aug.,Other
+HGD,EEGConformer,original,500,4–125,0–4,ems,—,0.5,0.001,0.0001,plateau,100,32,0,S&R,
+HGD,EEGConformer,song2022,250,4–40,0–4,ems,—,0.5,0.0002,0,none,300,72,0,S&R,
+HGD,Deep4Net,original,100,4–38,0–4,ems,—,0.3,0.0005,0.0001,plateau,600,96,0.1,no,
+HGD,Deep4Net,schirrmeister,250,4–38,-0.5–4,ems,—,0.5,0.01,0.0005,cosine,300,64,0.1,no,
+HGD,Deep4Net,cosine100,100,4–38,0–4,ems,—,0.5,0.01,0.0005,cosine,300,64,0.1,no,
+HGD,EEG-ITNet,original,100,4–38,0–4,none,—,0.3,0.0005,0.0001,plateau,600,96,0.1,no,
+HGD,EEG-ITNet,ems,100,4–38,0–4,ems,—,0.3,0.0005,0.0001,plateau,600,96,0.1,no,
+HGD,EEG-ITNet,salami128,128,4–38,0–4,ems,—,0.4,0.0005,0.0001,plateau,600,96,0.1,no,
+HGD,EEGNetv4,original,100,4–38,0–4,none,64,0.3,0.0005,0.0001,plateau,600,96,0.1,no,
+HGD,EEGNetv4,ems,100,4–38,0–4,ems,64,0.3,0.0005,0.0001,plateau,600,96,0.1,no,
+HGD,EEGNetv4,lawhern128,128,4–38,0.5–4,ems,64,0.25,0.001,0.0001,cosine,500,64,0,no,
+BNCI2014-001,EEGConformer,original,250,4–38,-0.5–4,ems,—,0.5,0.001,0.001,cosine,350,64,0.1,yes,"SWA from 71% of epochs, mixup p=0.5, TTA"
+BNCI2014-001,EEGConformer,lr_2e-4,250,4–38,-0.5–4,ems,—,0.5,0.0002,0.001,cosine,350,64,0.1,yes,"SWA from 71% of epochs, mixup p=0.5, TTA"
+BNCI2014-001,EEGConformer,cue_0_4,250,4–38,0–4,ems,—,0.5,0.001,0.001,cosine,350,64,0.1,yes,"SWA from 71% of epochs, mixup p=0.5, TTA"
+BNCI2014-001,Deep4Net,original,250,4–38,-0.5–4,ems,—,0.5,0.001,0.001,cosine,350,64,0.1,yes,"SWA from 71% of epochs, mixup p=0.5, TTA"
+BNCI2014-001,Deep4Net,cue_0_4,250,4–38,0–4,ems,—,0.5,0.001,0.001,cosine,350,64,0.1,yes,"SWA from 71% of epochs, mixup p=0.5, TTA"
+BNCI2014-001,Deep4Net,no_aug,250,4–38,-0.5–4,ems,—,0.5,0.001,0.001,cosine,350,64,0.1,no,"SWA from 71% of epochs, TTA"
+BNCI2014-001,EEG-ITNet,original,250,4–38,-0.5–4,ems,—,0.4,0.001,0.001,cosine,350,64,0.1,yes,"SWA from 71% of epochs, mixup p=0.5, TTA"
+BNCI2014-001,EEG-ITNet,cue_0_4,250,4–38,0–4,ems,—,0.4,0.001,0.001,cosine,350,64,0.1,yes,"SWA from 71% of epochs, mixup p=0.5, TTA"
+BNCI2014-001,EEG-ITNet,no_aug,250,4–38,-0.5–4,ems,—,0.4,0.001,0.001,cosine,350,64,0.1,no,"SWA from 71% of epochs, TTA"
+BNCI2014-001,EEG-ITNet,drop_0.25,250,4–38,-0.5–4,ems,—,0.25,0.001,0.001,cosine,350,64,0.1,yes,"SWA from 71% of epochs, mixup p=0.5, TTA"
+BNCI2014-001,EEGNetv4,original,128,4–40,0.5–2.5,ems,32,0.5,0.002,0.0005,cosine,800,64,0.05,no,
+BNCI2014-001,EEGNetv4,k64,128,4–40,0.5–2.5,ems,64,0.5,0.002,0.0005,cosine,800,64,0.05,no,
+BNCI2014-001,EEGNetv4,k64_long,128,4–40,0.5–4,ems,64,0.5,0.002,0.0005,cosine,800,64,0.05,no,
+BNCI2014-001,EEGNetv4,k64_aug,128,4–40,0.5–2.5,ems,64,0.5,0.002,0.0005,cosine,800,64,0.05,yes,
+BNCI2014-001,EEGNetv4,k64_long_aug,128,4–40,0.5–4,ems,64,0.5,0.002,0.0005,cosine,800,64,0.05,yes,
+PhysioNet,EEGConformer,zscore,160,4–40,0–3,z-score,—,0.5,0.0005,0.0001,cosine,300,16,0.1,no,
+PhysioNet,EEGConformer,ems,160,4–40,0–3,ems,—,0.5,0.0005,0.0001,cosine,300,16,0.1,no,
+PhysioNet,Deep4Net,zscore,160,4–40,0–3,z-score,—,0.5,0.001,0.0005,cosine,300,16,0.1,no,
+PhysioNet,Deep4Net,ems,160,4–40,0–3,ems,—,0.5,0.001,0.0005,cosine,300,16,0.1,no,
+PhysioNet,Deep4Net,original,160,8–32,0.5–2.5,none,—,0.25,0.01,1e-05,multistep,100,64,0,no,"milestones [20, 50]"
+PhysioNet,EEG-ITNet,zscore,160,4–40,0–3,z-score,—,0.4,0.001,0.001,cosine,300,16,0.1,no,
+PhysioNet,EEG-ITNet,ems,160,4–40,0–3,ems,—,0.4,0.001,0.001,cosine,300,16,0.1,no,
+PhysioNet,EEG-ITNet,original,160,8–32,0.5–2.5,none,—,0.25,0.01,1e-05,multistep,100,64,0,no,"milestones [20, 50]"
+PhysioNet,EEGNetv4,zscore,160,4–40,0–3,z-score,80,0.25,0.001,0.001,cosine,300,16,0.1,no,
+PhysioNet,EEGNetv4,ems,160,4–40,0–3,ems,80,0.25,0.001,0.001,cosine,300,16,0.1,no,
+PhysioNet,EEGNetv4,original,160,8–32,0.5–2.5,none,64,0.25,0.01,1e-05,multistep,100,64,0,no,"milestones [20, 50]"

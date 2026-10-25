@@ -1,0 +1,34 @@
+EEGConformer - HGD - CSP 12-channel (LOSO) - 4class
+================================================================================
+
+Subject 01: 82.50%  | montage: C3, C4, CP3, CP2, CP1, C1, C2, FCz, FC1, FC2, FC3, CP4
+    seed -1 fold 1: 82.50% (majority-class 25.0%)
+Subject 02: 83.12%  | montage: C3, C4, CP3, CP2, C2, CP1, C1, FCz, CP4, FC1, FC2, FC3
+    seed -1 fold 1: 83.12% (majority-class 25.0%)
+Subject 03: 94.38%  | montage: C3, C4, CP3, CP2, C1, C2, CP1, FCz, FC1, FC2, FC3, CP4
+    seed -1 fold 1: 94.38% (majority-class 25.0%)
+Subject 04: 91.25%  | montage: C3, CP3, C4, CP2, CP1, C2, C1, FCz, FC1, FC2, CP4, FC3
+    seed -1 fold 1: 91.25% (majority-class 25.0%)
+Subject 05: 89.38%  | montage: C3, C4, CP2, CP3, C1, CP1, C2, FCz, FC1, FC2, FC3, CP4
+    seed -1 fold 1: 89.38% (majority-class 25.0%)
+Subject 06: 88.75%  | montage: C3, C4, CP2, CP3, C2, C1, CP1, FCz, FC1, FC3, FC2, CP4
+    seed -1 fold 1: 88.75% (majority-class 25.0%)
+Subject 07: 84.38%  | montage: C3, C4, CP3, CP2, C1, CP1, C2, FCz, FC1, CP4, FC3, FC2
+    seed -1 fold 1: 84.38% (majority-class 25.0%)
+Subject 08: 90.00%  | montage: C3, C4, CP2, CP3, CP1, C1, C2, FCz, FC1, FC3, CP4, FC2
+    seed -1 fold 1: 90.00% (majority-class 25.0%)
+Subject 09: 70.62%  | montage: C3, C4, CP3, CP1, CP2, C1, C2, FCz, FC1, FC2, FC3, CP4
+    seed -1 fold 1: 70.62% (majority-class 25.0%)
+Subject 10: 91.88%  | montage: C3, C4, CP3, CP2, CP1, C2, C1, FCz, FC1, FC2, FC3, CP4
+    seed -1 fold 1: 91.88% (majority-class 25.0%)
+Subject 11: 73.12%  | montage: C3, C4, CP3, CP2, CP1, C2, FCz, C1, FC1, FC2, FC3, CP4
+    seed -1 fold 1: 73.12% (majority-class 25.0%)
+Subject 12: 90.62%  | montage: C3, C4, CP3, CP2, C2, CP1, C1, FCz, FC1, FC2, CP4, FC3
+    seed -1 fold 1: 90.62% (majority-class 25.0%)
+Subject 13: 86.88%  | montage: C3, C4, CP3, CP2, CP1, C1, C2, FCz, FC1, FC3, FC2, CP4
+    seed -1 fold 1: 86.88% (majority-class 25.0%)
+Subject 14: 92.50%  | montage: C3, C4, CP3, CP2, C2, CP1, C1, FCz, FC1, CP4, FC2, FC3
+    seed -1 fold 1: 92.50% (majority-class 25.0%)
+
+GRAND MEAN: 86.38% +/- 7.10% (SD across subjects)
+chance 25.0% | mean majority-class 25.0%

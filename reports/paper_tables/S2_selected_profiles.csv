@@ -1,0 +1,25 @@
+Dataset,Task,Model,Selected profile (number of subjects)
+HGD,4-class,EEGConformer,song2022 (14)
+HGD,4-class,Deep4Net,schirrmeister (14)
+HGD,4-class,EEG-ITNet,"original (13), ems (1)"
+HGD,4-class,EEGNetv4,lawhern128 (14)
+HGD,2-class,EEGConformer,song2022 (14)
+HGD,2-class,Deep4Net,schirrmeister (14)
+HGD,2-class,EEG-ITNet,original (14)
+HGD,2-class,EEGNetv4,lawhern128 (14)
+BNCI2014-001,4-class,EEGConformer,lr_2e-4 (9)
+BNCI2014-001,4-class,Deep4Net,"cue_0_4 (6), original (3)"
+BNCI2014-001,4-class,EEG-ITNet,cue_0_4 (9)
+BNCI2014-001,4-class,EEGNetv4,original (9)
+BNCI2014-001,2-class,EEGConformer,original (9)
+BNCI2014-001,2-class,Deep4Net,"original (8), cue_0_4 (1)"
+BNCI2014-001,2-class,EEG-ITNet,"original (5), cue_0_4 (4)"
+BNCI2014-001,2-class,EEGNetv4,"k64_aug (7), original (2)"
+PhysioNet,4-class,EEGConformer,zscore (105)
+PhysioNet,4-class,Deep4Net,zscore (105)
+PhysioNet,4-class,EEG-ITNet,ems (105)
+PhysioNet,4-class,EEGNetv4,zscore (105)
+PhysioNet,2-class,EEGConformer,zscore (105)
+PhysioNet,2-class,Deep4Net,zscore (105)
+PhysioNet,2-class,EEG-ITNet,"zscore (85), ems (20)"
+PhysioNet,2-class,EEGNetv4,zscore (105)

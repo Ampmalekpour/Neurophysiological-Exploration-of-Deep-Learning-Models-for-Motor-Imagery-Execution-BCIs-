@@ -1,0 +1,1015 @@
+$ D:\EEG\braindec\.venv\Scripts\python.exe -u D:\EEG\NeuroGrounded-EEG\EEGItNet\HGD\4class\eegitnet_hgd_4class_relieff.py   [EEG_PROTOCOL=session]
+Using device: cuda | class mode: 4class | seeds: [42, 43, 44] | subjects: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] | synthetic: False | protocol: session
+
+================================================================================
+PHASE 1: PER-SUBJECT RELIEFF SCORES (22 ch) - 4class
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S01 [4class] profile=original X=(480, 22, 400) class counts={'feet': 120, 'left_hand': 120, 'rest': 120, 'right_hand': 120}
+  S01 ReliefF top-12: C4 (1.000), C2 (0.612), CP3 (0.585), CP4 (0.484), CP1 (0.469), C1 (0.442), C3 (0.414), C6 (0.246), CP2 (0.229), FC4 (0.217), FC1 (0.213), Cz (0.211)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S02 [4class] profile=original X=(973, 22, 400) class counts={'feet': 244, 'left_hand': 242, 'rest': 243, 'right_hand': 244}
+  S02 ReliefF top-12: CP1 (1.000), CP3 (0.971), C4 (0.780), C1 (0.749), C3 (0.707), FCz (0.690), FC5 (0.655), FC1 (0.573), C2 (0.523), CP2 (0.513), CPz (0.511), CP6 (0.486)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S03 [4class] profile=original X=(1040, 22, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+  S03 ReliefF top-12: C1 (1.000), C4 (0.952), CP4 (0.935), CP3 (0.933), CP2 (0.818), C2 (0.718), CP1 (0.622), C3 (0.545), CPz (0.539), FC2 (0.475), FC5 (0.444), C5 (0.412)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S04 [4class] profile=original X=(1057, 22, 400) class counts={'feet': 265, 'left_hand': 264, 'rest': 264, 'right_hand': 264}
+  S04 ReliefF top-12: C3 (1.000), C2 (0.901), C4 (0.796), CP2 (0.513), CP3 (0.439), Pz (0.419), CP1 (0.365), C1 (0.355), CP4 (0.334), FC1 (0.263), FC5 (0.236), FC4 (0.228)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S05 [4class] profile=original X=(880, 22, 400) class counts={'feet': 220, 'left_hand': 220, 'rest': 220, 'right_hand': 220}
+  S05 ReliefF top-12: C1 (1.000), C3 (0.972), C2 (0.861), C4 (0.722), CP2 (0.430), CP3 (0.397), CP1 (0.291), Pz (0.284), FC2 (0.254), FC5 (0.247), CPz (0.236), FCz (0.223)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S06 [4class] profile=original X=(1040, 22, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+  S06 ReliefF top-12: C4 (1.000), Pz (0.929), C2 (0.909), CP4 (0.749), C1 (0.691), C3 (0.587), CP5 (0.491), CP3 (0.480), FC1 (0.473), FCz (0.433), CP1 (0.396), C5 (0.386)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S07 [4class] profile=original X=(1040, 22, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+  S07 ReliefF top-12: C2 (1.000), C1 (0.785), C3 (0.548), CP3 (0.437), C4 (0.386), Cz (0.382), CP1 (0.371), CP2 (0.336), CPz (0.309), C6 (0.247), CP5 (0.228), FC4 (0.205)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S08 [4class] profile=original X=(814, 22, 400) class counts={'feet': 203, 'left_hand': 204, 'rest': 203, 'right_hand': 204}
+  S08 ReliefF top-12: C4 (1.000), CP1 (0.739), C2 (0.733), CP2 (0.730), C1 (0.699), CPz (0.534), C3 (0.498), CP3 (0.482), FC1 (0.391), CP6 (0.368), FC5 (0.340), FC4 (0.320)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S09 [4class] profile=ems X=(1040, 22, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+  S09 ReliefF top-12: C2 (1.000), CP5 (0.595), C1 (0.448), C4 (0.389), C5 (0.363), CP3 (0.293), CP1 (0.255), FC5 (0.252), FC4 (0.224), Pz (0.202), FC6 (0.172), FC3 (0.151)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S10 [4class] profile=original X=(1040, 22, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+  S10 ReliefF top-12: C2 (1.000), C3 (0.982), CP2 (0.913), C1 (0.883), C4 (0.770), CP6 (0.754), CP4 (0.716), C6 (0.694), CP3 (0.565), CP1 (0.555), CPz (0.518), FC4 (0.423)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S11 [4class] profile=original X=(1040, 22, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+  S11 ReliefF top-12: C1 (1.000), CP3 (0.943), C3 (0.922), C4 (0.865), CP1 (0.861), C2 (0.796), CP2 (0.649), CP4 (0.590), CP5 (0.575), Pz (0.447), CPz (0.396), FC3 (0.389)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S12 [4class] profile=original X=(1040, 22, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+  S12 ReliefF top-12: CP1 (1.000), C1 (0.822), CP3 (0.811), C2 (0.730), C4 (0.574), C3 (0.457), Pz (0.441), CP4 (0.417), Cz (0.341), FCz (0.261), CP2 (0.245), CPz (0.241)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S13 [4class] profile=original X=(960, 22, 400) class counts={'feet': 240, 'left_hand': 240, 'rest': 240, 'right_hand': 240}
+  S13 ReliefF top-12: C3 (1.000), C1 (0.945), C2 (0.838), C4 (0.821), CP1 (0.803), CP3 (0.658), CP4 (0.442), FC1 (0.396), CP2 (0.393), FC3 (0.387), Cz (0.382), CPz (0.376)
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S14 [4class] profile=original X=(1040, 22, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+  S14 ReliefF top-12: C1 (1.000), C2 (0.885), C4 (0.800), C3 (0.512), Pz (0.498), FC1 (0.489), CP1 (0.436), FC3 (0.413), CP3 (0.363), CP2 (0.324), CP5 (0.319), CPz (0.288)
+
+================================================================================
+SUBJECT 01 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C1, C4, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S01 [4class] profile=original X=(480, 12, 400) class counts={'feet': 120, 'left_hand': 120, 'rest': 120, 'right_hand': 120}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+D:\EEG\braindec\.venv\lib\site-packages\torch\nn\modules\conv.py:459: UserWarning: Using padding='same' with even kernel lengths and odd dilation may require a zero-padded copy of the input be created (Triggered internally at ..\aten\src\ATen\native\Convolution.cpp:1004.)
+  return F.conv2d(input, weight, bias, self.stride,
+S01 seed42 F1 [fit] Ep 001 | tr 1.4401 | val 23.8% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S01 seed42 F1 [fit] Ep 050 | tr 0.9152 | val 47.5% | best val acc 48.8% (ep 36) | lr 5.0e-04
+S01 seed42 F1 [fit] Ep 100 | tr 0.7478 | val 63.7% | best val acc 63.7% (ep 100) | lr 5.0e-04
+S01 seed42 F1 [fit] Ep 150 | tr 0.5961 | val 66.2% | best val acc 67.5% (ep 131) | lr 5.0e-04
+S01 seed42 F1 [fit] Ep 200 | tr 0.5637 | val 67.5% | best val acc 68.8% (ep 197) | lr 5.0e-04
+S01 seed42 F1 [fit] Ep 250 | tr 0.5732 | val 67.5% | best val acc 68.8% (ep 197) | lr 1.3e-04
+S01 seed42 F1 [fit] Ep 300 | tr 0.5481 | val 67.5% | best val acc 68.8% (ep 197) | lr 3.1e-05
+S01 seed42 F1 [fit] Early stop @ ep 347 (best epoch 197)
+S01 seed42 F1 [refit] Ep 001/197 | tr 1.4022 (refit, no early stopping)
+S01 seed42 F1 [refit] Ep 050/197 | tr 0.8358 (refit, no early stopping)
+S01 seed42 F1 [refit] Ep 100/197 | tr 0.7220 (refit, no early stopping)
+S01 seed42 F1 [refit] Ep 150/197 | tr 0.6228 (refit, no early stopping)
+S01 seed42 F1: test 63.75% (val 68.75%, epochs 197)
+S01 seed43 F1 [fit] Ep 001 | tr 1.4134 | val 28.7% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S01 seed43 F1 [fit] Ep 050 | tr 0.9724 | val 32.5% | best val acc 33.8% (ep 37) | lr 5.0e-04
+S01 seed43 F1 [fit] Ep 100 | tr 0.8889 | val 38.8% | best val acc 41.2% (ep 78) | lr 1.3e-04
+S01 seed43 F1 [fit] Ep 150 | tr 0.8591 | val 41.2% | best val acc 41.2% (ep 150) | lr 6.3e-05
+S01 seed43 F1 [fit] Ep 200 | tr 0.8238 | val 42.5% | best val acc 43.8% (ep 192) | lr 1.6e-05
+S01 seed43 F1 [fit] Ep 250 | tr 0.8234 | val 42.5% | best val acc 45.0% (ep 228) | lr 3.9e-06
+S01 seed43 F1 [fit] Ep 300 | tr 0.7990 | val 42.5% | best val acc 46.2% (ep 280) | lr 2.0e-06
+S01 seed43 F1 [fit] Ep 350 | tr 0.7674 | val 43.8% | best val acc 46.2% (ep 280) | lr 4.9e-07
+S01 seed43 F1 [fit] Ep 400 | tr 0.8262 | val 42.5% | best val acc 46.2% (ep 280) | lr 2.4e-07
+S01 seed43 F1 [fit] Early stop @ ep 430 (best epoch 280)
+S01 seed43 F1 [refit] Ep 001/280 | tr 1.4013 (refit, no early stopping)
+S01 seed43 F1 [refit] Ep 050/280 | tr 0.9787 (refit, no early stopping)
+S01 seed43 F1 [refit] Ep 100/280 | tr 0.8168 (refit, no early stopping)
+S01 seed43 F1 [refit] Ep 150/280 | tr 0.7817 (refit, no early stopping)
+S01 seed43 F1 [refit] Ep 200/280 | tr 0.8087 (refit, no early stopping)
+S01 seed43 F1 [refit] Ep 250/280 | tr 0.7774 (refit, no early stopping)
+S01 seed43 F1: test 50.62% (val 46.25%, epochs 280)
+S01 seed44 F1 [fit] Ep 001 | tr 1.4228 | val 28.7% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S01 seed44 F1 [fit] Ep 050 | tr 0.8654 | val 51.2% | best val acc 51.2% (ep 47) | lr 5.0e-04
+S01 seed44 F1 [fit] Ep 100 | tr 0.7264 | val 56.2% | best val acc 56.2% (ep 85) | lr 5.0e-04
+S01 seed44 F1 [fit] Ep 150 | tr 0.6617 | val 56.2% | best val acc 56.2% (ep 85) | lr 1.3e-04
+S01 seed44 F1 [fit] Ep 200 | tr 0.6394 | val 53.8% | best val acc 56.2% (ep 85) | lr 6.3e-05
+S01 seed44 F1 [fit] Early stop @ ep 235 (best epoch 85)
+S01 seed44 F1 [refit] Ep 001/85 | tr 1.4029 (refit, no early stopping)
+S01 seed44 F1 [refit] Ep 050/85 | tr 0.8433 (refit, no early stopping)
+S01 seed44 F1: test 57.50% (val 56.25%, epochs 85)
+S01 seed ensemble (3 seeds): test 62.50% (single seeds 63.7, 50.6, 57.5)
+
+================================================================================
+SUBJECT 02 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S02 [4class] profile=original X=(973, 12, 400) class counts={'feet': 244, 'left_hand': 242, 'rest': 243, 'right_hand': 244}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S02 seed42 F1 [fit] Ep 001 | tr 1.4164 | val 27.1% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S02 seed42 F1 [fit] Ep 050 | tr 0.8742 | val 39.9% | best val acc 40.9% (ep 38) | lr 2.5e-04
+S02 seed42 F1 [fit] Ep 100 | tr 0.7927 | val 50.7% | best val acc 52.2% (ep 95) | lr 2.5e-04
+S02 seed42 F1 [fit] Ep 150 | tr 0.7697 | val 43.3% | best val acc 56.7% (ep 141) | lr 2.5e-04
+S02 seed42 F1 [fit] Ep 200 | tr 0.7475 | val 60.1% | best val acc 60.1% (ep 195) | lr 2.5e-04
+S02 seed42 F1 [fit] Ep 250 | tr 0.6874 | val 59.6% | best val acc 61.6% (ep 232) | lr 1.3e-04
+S02 seed42 F1 [fit] Ep 300 | tr 0.7001 | val 53.7% | best val acc 63.5% (ep 282) | lr 1.3e-04
+S02 seed42 F1 [fit] Ep 350 | tr 0.7013 | val 60.1% | best val acc 63.5% (ep 282) | lr 6.3e-05
+S02 seed42 F1 [fit] Ep 400 | tr 0.6861 | val 60.6% | best val acc 63.5% (ep 282) | lr 3.1e-05
+S02 seed42 F1 [fit] Ep 450 | tr 0.6538 | val 57.6% | best val acc 63.5% (ep 410) | lr 1.6e-05
+S02 seed42 F1 [fit] Ep 500 | tr 0.6754 | val 63.1% | best val acc 63.5% (ep 410) | lr 7.8e-06
+S02 seed42 F1 [fit] Ep 550 | tr 0.6630 | val 48.8% | best val acc 63.5% (ep 516) | lr 2.0e-06
+S02 seed42 F1 [fit] Ep 600 | tr 0.6720 | val 62.6% | best val acc 63.5% (ep 580) | lr 9.8e-07
+S02 seed42 F1 [refit] Ep 001/580 | tr 1.3993 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 050/580 | tr 0.8549 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 100/580 | tr 0.7673 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 150/580 | tr 0.7349 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 200/580 | tr 0.6898 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 250/580 | tr 0.7037 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 300/580 | tr 0.6619 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 350/580 | tr 0.6596 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 400/580 | tr 0.6560 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 450/580 | tr 0.6529 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 500/580 | tr 0.6544 (refit, no early stopping)
+S02 seed42 F1 [refit] Ep 550/580 | tr 0.6490 (refit, no early stopping)
+S02 seed42 F1: test 68.12% (val 63.55%, epochs 580)
+S02 seed43 F1 [fit] Ep 001 | tr 1.4144 | val 29.6% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S02 seed43 F1 [fit] Ep 050 | tr 0.9264 | val 42.4% | best val acc 45.3% (ep 48) | lr 5.0e-04
+S02 seed43 F1 [fit] Ep 100 | tr 0.7997 | val 53.2% | best val acc 53.2% (ep 95) | lr 5.0e-04
+S02 seed43 F1 [fit] Ep 150 | tr 0.7613 | val 46.3% | best val acc 57.6% (ep 137) | lr 5.0e-04
+S02 seed43 F1 [fit] Ep 200 | tr 0.7136 | val 46.3% | best val acc 57.6% (ep 137) | lr 1.3e-04
+S02 seed43 F1 [fit] Ep 250 | tr 0.7205 | val 53.2% | best val acc 57.6% (ep 137) | lr 6.3e-05
+S02 seed43 F1 [fit] Early stop @ ep 287 (best epoch 137)
+S02 seed43 F1 [refit] Ep 001/137 | tr 1.4067 (refit, no early stopping)
+S02 seed43 F1 [refit] Ep 050/137 | tr 0.9079 (refit, no early stopping)
+S02 seed43 F1 [refit] Ep 100/137 | tr 0.7586 (refit, no early stopping)
+S02 seed43 F1: test 64.38% (val 57.64%, epochs 137)
+S02 seed44 F1 [fit] Ep 001 | tr 1.4268 | val 25.6% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S02 seed44 F1 [fit] Ep 050 | tr 0.8749 | val 51.7% | best val acc 51.7% (ep 50) | lr 2.5e-04
+S02 seed44 F1 [fit] Ep 100 | tr 0.8084 | val 56.2% | best val acc 57.6% (ep 98) | lr 2.5e-04
+S02 seed44 F1 [fit] Ep 150 | tr 0.8006 | val 59.1% | best val acc 60.1% (ep 145) | lr 2.5e-04
+S02 seed44 F1 [fit] Ep 200 | tr 0.7344 | val 61.6% | best val acc 62.6% (ep 186) | lr 1.3e-04
+S02 seed44 F1 [fit] Ep 250 | tr 0.7392 | val 62.1% | best val acc 64.0% (ep 239) | lr 3.1e-05
+S02 seed44 F1 [fit] Ep 300 | tr 0.7423 | val 63.5% | best val acc 64.0% (ep 263) | lr 7.8e-06
+S02 seed44 F1 [fit] Ep 350 | tr 0.7364 | val 61.6% | best val acc 64.0% (ep 263) | lr 7.8e-06
+S02 seed44 F1 [fit] Ep 400 | tr 0.7485 | val 61.6% | best val acc 64.0% (ep 263) | lr 2.0e-06
+S02 seed44 F1 [fit] Early stop @ ep 413 (best epoch 263)
+S02 seed44 F1 [refit] Ep 001/263 | tr 1.4150 (refit, no early stopping)
+S02 seed44 F1 [refit] Ep 050/263 | tr 0.8538 (refit, no early stopping)
+S02 seed44 F1 [refit] Ep 100/263 | tr 0.8157 (refit, no early stopping)
+S02 seed44 F1 [refit] Ep 150/263 | tr 0.7523 (refit, no early stopping)
+S02 seed44 F1 [refit] Ep 200/263 | tr 0.7546 (refit, no early stopping)
+S02 seed44 F1 [refit] Ep 250/263 | tr 0.7188 (refit, no early stopping)
+S02 seed44 F1: test 68.12% (val 64.04%, epochs 263)
+S02 seed ensemble (3 seeds): test 70.00% (single seeds 68.1, 64.4, 68.1)
+
+================================================================================
+SUBJECT 03 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP1, CP3, CP2, Pz, CP4, CP5, CPz, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S03 [4class] profile=original X=(1040, 12, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S03 seed42 F1 [fit] Ep 001 | tr 1.4015 | val 31.4% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S03 seed42 F1 [fit] Ep 050 | tr 0.8542 | val 67.3% | best val acc 67.3% (ep 50) | lr 5.0e-04
+S03 seed42 F1 [fit] Ep 100 | tr 0.7222 | val 74.5% | best val acc 75.9% (ep 97) | lr 5.0e-04
+S03 seed42 F1 [fit] Ep 150 | tr 0.5706 | val 84.1% | best val acc 84.1% (ep 150) | lr 2.5e-04
+S03 seed42 F1 [fit] Ep 200 | tr 0.5442 | val 84.5% | best val acc 85.0% (ep 174) | lr 1.3e-04
+S03 seed42 F1 [fit] Ep 250 | tr 0.5604 | val 85.0% | best val acc 85.0% (ep 250) | lr 3.1e-05
+S03 seed42 F1 [fit] Ep 300 | tr 0.5439 | val 85.0% | best val acc 85.0% (ep 300) | lr 7.8e-06
+S03 seed42 F1 [fit] Ep 350 | tr 0.5424 | val 84.5% | best val acc 85.0% (ep 300) | lr 3.9e-06
+S03 seed42 F1 [fit] Ep 400 | tr 0.5484 | val 84.1% | best val acc 85.0% (ep 300) | lr 9.8e-07
+S03 seed42 F1 [fit] Ep 450 | tr 0.5328 | val 84.5% | best val acc 85.0% (ep 300) | lr 2.4e-07
+S03 seed42 F1 [fit] Early stop @ ep 450 (best epoch 300)
+S03 seed42 F1 [refit] Ep 001/300 | tr 1.4103 (refit, no early stopping)
+S03 seed42 F1 [refit] Ep 050/300 | tr 0.8287 (refit, no early stopping)
+S03 seed42 F1 [refit] Ep 100/300 | tr 0.6961 (refit, no early stopping)
+S03 seed42 F1 [refit] Ep 150/300 | tr 0.6148 (refit, no early stopping)
+S03 seed42 F1 [refit] Ep 200/300 | tr 0.5866 (refit, no early stopping)
+S03 seed42 F1 [refit] Ep 250/300 | tr 0.5963 (refit, no early stopping)
+S03 seed42 F1 [refit] Ep 300/300 | tr 0.5959 (refit, no early stopping)
+S03 seed42 F1: test 90.00% (val 85.00%, epochs 300)
+S03 seed43 F1 [fit] Ep 001 | tr 1.4154 | val 31.8% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S03 seed43 F1 [fit] Ep 050 | tr 0.7597 | val 78.2% | best val acc 78.2% (ep 50) | lr 5.0e-04
+S03 seed43 F1 [fit] Ep 100 | tr 0.6556 | val 85.5% | best val acc 85.5% (ep 100) | lr 5.0e-04
+S03 seed43 F1 [fit] Ep 150 | tr 0.5981 | val 85.9% | best val acc 87.3% (ep 140) | lr 5.0e-04
+S03 seed43 F1 [fit] Ep 200 | tr 0.5164 | val 95.0% | best val acc 95.5% (ep 196) | lr 5.0e-04
+S03 seed43 F1 [fit] Ep 250 | tr 0.4978 | val 95.5% | best val acc 96.4% (ep 217) | lr 5.0e-04
+S03 seed43 F1 [fit] Ep 300 | tr 0.4803 | val 95.9% | best val acc 96.4% (ep 299) | lr 5.0e-04
+S03 seed43 F1 [fit] Ep 350 | tr 0.4713 | val 95.5% | best val acc 96.4% (ep 299) | lr 2.5e-04
+S03 seed43 F1 [fit] Ep 400 | tr 0.4685 | val 96.4% | best val acc 96.8% (ep 399) | lr 2.5e-04
+S03 seed43 F1 [fit] Ep 450 | tr 0.4701 | val 95.9% | best val acc 96.8% (ep 399) | lr 6.3e-05
+S03 seed43 F1 [fit] Ep 500 | tr 0.4585 | val 95.9% | best val acc 96.8% (ep 399) | lr 1.6e-05
+S03 seed43 F1 [fit] Early stop @ ep 549 (best epoch 399)
+S03 seed43 F1 [refit] Ep 001/399 | tr 1.4064 (refit, no early stopping)
+S03 seed43 F1 [refit] Ep 050/399 | tr 0.7348 (refit, no early stopping)
+S03 seed43 F1 [refit] Ep 100/399 | tr 0.6429 (refit, no early stopping)
+S03 seed43 F1 [refit] Ep 150/399 | tr 0.5553 (refit, no early stopping)
+S03 seed43 F1 [refit] Ep 200/399 | tr 0.4913 (refit, no early stopping)
+S03 seed43 F1 [refit] Ep 250/399 | tr 0.4871 (refit, no early stopping)
+S03 seed43 F1 [refit] Ep 300/399 | tr 0.4798 (refit, no early stopping)
+S03 seed43 F1 [refit] Ep 350/399 | tr 0.4690 (refit, no early stopping)
+S03 seed43 F1: test 94.38% (val 96.82%, epochs 399)
+S03 seed44 F1 [fit] Ep 001 | tr 1.4109 | val 26.4% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S03 seed44 F1 [fit] Ep 050 | tr 0.7518 | val 75.9% | best val acc 76.8% (ep 49) | lr 5.0e-04
+S03 seed44 F1 [fit] Ep 100 | tr 0.6148 | val 85.5% | best val acc 86.8% (ep 92) | lr 5.0e-04
+S03 seed44 F1 [fit] Ep 150 | tr 0.5216 | val 91.4% | best val acc 92.3% (ep 143) | lr 5.0e-04
+S03 seed44 F1 [fit] Ep 200 | tr 0.4993 | val 93.2% | best val acc 93.2% (ep 200) | lr 5.0e-04
+S03 seed44 F1 [fit] Ep 250 | tr 0.4916 | val 91.4% | best val acc 93.2% (ep 204) | lr 5.0e-04
+S03 seed44 F1 [fit] Ep 300 | tr 0.4695 | val 91.4% | best val acc 93.2% (ep 204) | lr 2.5e-04
+S03 seed44 F1 [fit] Ep 350 | tr 0.4804 | val 91.8% | best val acc 93.2% (ep 204) | lr 6.3e-05
+S03 seed44 F1 [fit] Early stop @ ep 354 (best epoch 204)
+S03 seed44 F1 [refit] Ep 001/204 | tr 1.4175 (refit, no early stopping)
+S03 seed44 F1 [refit] Ep 050/204 | tr 0.7498 (refit, no early stopping)
+S03 seed44 F1 [refit] Ep 100/204 | tr 0.6032 (refit, no early stopping)
+S03 seed44 F1 [refit] Ep 150/204 | tr 0.5394 (refit, no early stopping)
+S03 seed44 F1 [refit] Ep 200/204 | tr 0.5125 (refit, no early stopping)
+S03 seed44 F1: test 91.88% (val 93.18%, epochs 204)
+S03 seed ensemble (3 seeds): test 95.00% (single seeds 90.0, 94.4, 91.9)
+
+================================================================================
+SUBJECT 04 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C1, C4, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S04 [4class] profile=original X=(1057, 12, 400) class counts={'feet': 265, 'left_hand': 264, 'rest': 264, 'right_hand': 264}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S04 seed42 F1 [fit] Ep 001 | tr 1.3833 | val 31.7% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S04 seed42 F1 [fit] Ep 050 | tr 0.9069 | val 61.2% | best val acc 63.8% (ep 48) | lr 5.0e-04
+S04 seed42 F1 [fit] Ep 100 | tr 0.8309 | val 72.8% | best val acc 74.6% (ep 97) | lr 5.0e-04
+S04 seed42 F1 [fit] Ep 150 | tr 0.8256 | val 76.3% | best val acc 79.0% (ep 119) | lr 5.0e-04
+S04 seed42 F1 [fit] Ep 200 | tr 0.7311 | val 83.5% | best val acc 83.5% (ep 200) | lr 5.0e-04
+S04 seed42 F1 [fit] Ep 250 | tr 0.6155 | val 85.7% | best val acc 86.6% (ep 249) | lr 5.0e-04
+S04 seed42 F1 [fit] Ep 300 | tr 0.6396 | val 91.5% | best val acc 92.4% (ep 293) | lr 5.0e-04
+S04 seed42 F1 [fit] Ep 350 | tr 0.5485 | val 89.3% | best val acc 92.4% (ep 293) | lr 2.5e-04
+S04 seed42 F1 [fit] Ep 400 | tr 0.5286 | val 89.3% | best val acc 92.9% (ep 385) | lr 2.5e-04
+S04 seed42 F1 [fit] Ep 450 | tr 0.5703 | val 92.0% | best val acc 92.9% (ep 385) | lr 1.3e-04
+S04 seed42 F1 [fit] Ep 500 | tr 0.5217 | val 92.0% | best val acc 93.3% (ep 489) | lr 1.3e-04
+S04 seed42 F1 [fit] Ep 550 | tr 0.5260 | val 92.9% | best val acc 93.8% (ep 529) | lr 6.3e-05
+S04 seed42 F1 [fit] Ep 600 | tr 0.8352 | val 92.9% | best val acc 93.8% (ep 592) | lr 3.1e-05
+S04 seed42 F1 [refit] Ep 001/592 | tr 1.3997 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 050/592 | tr 0.7003 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 100/592 | tr 0.5493 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 150/592 | tr 0.5087 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 200/592 | tr 0.4972 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 250/592 | tr 0.4740 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 300/592 | tr 0.4512 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 350/592 | tr 0.4485 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 400/592 | tr 0.4424 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 450/592 | tr 0.4466 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 500/592 | tr 0.4440 (refit, no early stopping)
+S04 seed42 F1 [refit] Ep 550/592 | tr 0.4442 (refit, no early stopping)
+S04 seed42 F1: test 96.25% (val 93.75%, epochs 592)
+S04 seed43 F1 [fit] Ep 001 | tr 1.4069 | val 27.7% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S04 seed43 F1 [fit] Ep 050 | tr 0.9082 | val 62.5% | best val acc 62.5% (ep 50) | lr 5.0e-04
+S04 seed43 F1 [fit] Ep 100 | tr 0.7650 | val 68.8% | best val acc 73.7% (ep 90) | lr 5.0e-04
+S04 seed43 F1 [fit] Ep 150 | tr 0.8424 | val 78.1% | best val acc 78.1% (ep 150) | lr 5.0e-04
+S04 seed43 F1 [fit] Ep 200 | tr 0.6552 | val 81.2% | best val acc 85.3% (ep 194) | lr 5.0e-04
+S04 seed43 F1 [fit] Ep 250 | tr 0.6560 | val 83.9% | best val acc 88.4% (ep 249) | lr 5.0e-04
+S04 seed43 F1 [fit] Ep 300 | tr 0.6640 | val 88.8% | best val acc 90.2% (ep 265) | lr 5.0e-04
+S04 seed43 F1 [fit] Ep 350 | tr 0.5603 | val 85.3% | best val acc 90.2% (ep 344) | lr 2.5e-04
+S04 seed43 F1 [fit] Ep 400 | tr 0.7174 | val 90.6% | best val acc 90.6% (ep 400) | lr 1.3e-04
+S04 seed43 F1 [fit] Ep 450 | tr 0.5300 | val 88.4% | best val acc 91.5% (ep 401) | lr 6.3e-05
+S04 seed43 F1 [fit] Ep 500 | tr 0.6615 | val 90.2% | best val acc 91.5% (ep 401) | lr 1.6e-05
+S04 seed43 F1 [fit] Ep 550 | tr 0.5575 | val 87.1% | best val acc 91.5% (ep 401) | lr 7.8e-06
+S04 seed43 F1 [fit] Early stop @ ep 551 (best epoch 401)
+S04 seed43 F1 [refit] Ep 001/401 | tr 1.4144 (refit, no early stopping)
+S04 seed43 F1 [refit] Ep 050/401 | tr 0.6575 (refit, no early stopping)
+S04 seed43 F1 [refit] Ep 100/401 | tr 0.5374 (refit, no early stopping)
+S04 seed43 F1 [refit] Ep 150/401 | tr 0.5096 (refit, no early stopping)
+S04 seed43 F1 [refit] Ep 200/401 | tr 0.4997 (refit, no early stopping)
+S04 seed43 F1 [refit] Ep 250/401 | tr 0.4827 (refit, no early stopping)
+S04 seed43 F1 [refit] Ep 300/401 | tr 0.4591 (refit, no early stopping)
+S04 seed43 F1 [refit] Ep 350/401 | tr 0.4524 (refit, no early stopping)
+S04 seed43 F1 [refit] Ep 400/401 | tr 0.4495 (refit, no early stopping)
+S04 seed43 F1: test 83.12% (val 91.52%, epochs 401)
+S04 seed44 F1 [fit] Ep 001 | tr 1.3750 | val 25.9% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S04 seed44 F1 [fit] Ep 050 | tr 0.9723 | val 42.4% | best val acc 46.4% (ep 42) | lr 5.0e-04
+S04 seed44 F1 [fit] Ep 100 | tr 0.8637 | val 57.1% | best val acc 58.9% (ep 98) | lr 5.0e-04
+S04 seed44 F1 [fit] Ep 150 | tr 0.7465 | val 65.6% | best val acc 69.2% (ep 141) | lr 5.0e-04
+S04 seed44 F1 [fit] Ep 200 | tr 0.8711 | val 76.8% | best val acc 76.8% (ep 200) | lr 5.0e-04
+S04 seed44 F1 [fit] Ep 250 | tr 0.6690 | val 81.2% | best val acc 82.6% (ep 246) | lr 5.0e-04
+S04 seed44 F1 [fit] Ep 300 | tr 0.6239 | val 79.5% | best val acc 87.5% (ep 272) | lr 2.5e-04
+S04 seed44 F1 [fit] Ep 350 | tr 0.6250 | val 84.8% | best val acc 87.5% (ep 334) | lr 2.5e-04
+S04 seed44 F1 [fit] Ep 400 | tr 0.5593 | val 85.3% | best val acc 88.8% (ep 368) | lr 2.5e-04
+S04 seed44 F1 [fit] Ep 450 | tr 0.5373 | val 87.9% | best val acc 89.3% (ep 439) | lr 1.3e-04
+S04 seed44 F1 [fit] Ep 500 | tr 0.5779 | val 88.4% | best val acc 89.3% (ep 499) | lr 6.3e-05
+S04 seed44 F1 [fit] Ep 550 | tr 0.6054 | val 86.6% | best val acc 89.7% (ep 531) | lr 1.6e-05
+S04 seed44 F1 [fit] Ep 600 | tr 0.5693 | val 86.6% | best val acc 89.7% (ep 599) | lr 7.8e-06
+S04 seed44 F1 [refit] Ep 001/599 | tr 1.3934 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 050/599 | tr 0.7078 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 100/599 | tr 0.5668 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 150/599 | tr 0.5202 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 200/599 | tr 0.4932 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 250/599 | tr 0.4710 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 300/599 | tr 0.4516 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 350/599 | tr 0.4635 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 400/599 | tr 0.4567 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 450/599 | tr 0.4470 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 500/599 | tr 0.4425 (refit, no early stopping)
+S04 seed44 F1 [refit] Ep 550/599 | tr 0.4510 (refit, no early stopping)
+S04 seed44 F1: test 75.00% (val 89.73%, epochs 599)
+S04 seed ensemble (3 seeds): test 86.88% (single seeds 96.2, 83.1, 75.0)
+
+================================================================================
+SUBJECT 05 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S05 [4class] profile=original X=(880, 12, 400) class counts={'feet': 220, 'left_hand': 220, 'rest': 220, 'right_hand': 220}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S05 seed42 F1 [fit] Ep 001 | tr 1.4168 | val 28.9% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 050 | tr 0.8682 | val 52.2% | best val acc 52.2% (ep 50) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 100 | tr 0.7315 | val 63.3% | best val acc 63.9% (ep 98) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 150 | tr 0.6576 | val 65.0% | best val acc 66.7% (ep 130) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 200 | tr 0.6227 | val 70.6% | best val acc 70.6% (ep 200) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 250 | tr 0.5704 | val 75.6% | best val acc 76.1% (ep 249) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 300 | tr 0.5379 | val 74.4% | best val acc 78.3% (ep 287) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 350 | tr 0.5308 | val 77.2% | best val acc 79.4% (ep 332) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 400 | tr 0.5377 | val 79.4% | best val acc 80.0% (ep 391) | lr 5.0e-04
+S05 seed42 F1 [fit] Ep 450 | tr 0.5042 | val 79.4% | best val acc 80.6% (ep 403) | lr 1.3e-04
+S05 seed42 F1 [fit] Ep 500 | tr 0.4936 | val 80.0% | best val acc 80.6% (ep 475) | lr 1.3e-04
+S05 seed42 F1 [fit] Ep 550 | tr 0.5017 | val 79.4% | best val acc 80.6% (ep 512) | lr 1.3e-04
+S05 seed42 F1 [fit] Ep 600 | tr 0.4873 | val 78.9% | best val acc 80.6% (ep 568) | lr 3.1e-05
+S05 seed42 F1 [refit] Ep 001/568 | tr 1.4112 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 050/568 | tr 0.8089 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 100/568 | tr 0.7091 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 150/568 | tr 0.6589 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 200/568 | tr 0.6100 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 250/568 | tr 0.5766 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 300/568 | tr 0.5607 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 350/568 | tr 0.5385 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 400/568 | tr 0.5361 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 450/568 | tr 0.5223 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 500/568 | tr 0.5038 (refit, no early stopping)
+S05 seed42 F1 [refit] Ep 550/568 | tr 0.5091 (refit, no early stopping)
+S05 seed42 F1: test 84.38% (val 80.56%, epochs 568)
+S05 seed43 F1 [fit] Ep 001 | tr 1.3990 | val 25.6% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S05 seed43 F1 [fit] Ep 050 | tr 0.7670 | val 69.4% | best val acc 69.4% (ep 50) | lr 5.0e-04
+S05 seed43 F1 [fit] Ep 100 | tr 0.7175 | val 66.1% | best val acc 71.1% (ep 54) | lr 5.0e-04
+S05 seed43 F1 [fit] Ep 150 | tr 0.6584 | val 67.8% | best val acc 71.1% (ep 54) | lr 5.0e-04
+S05 seed43 F1 [fit] Ep 200 | tr 0.6231 | val 73.3% | best val acc 73.3% (ep 200) | lr 5.0e-04
+S05 seed43 F1 [fit] Ep 250 | tr 0.6126 | val 72.2% | best val acc 74.4% (ep 233) | lr 2.5e-04
+S05 seed43 F1 [fit] Ep 300 | tr 0.5906 | val 72.8% | best val acc 74.4% (ep 233) | lr 6.3e-05
+S05 seed43 F1 [fit] Ep 350 | tr 0.5788 | val 73.3% | best val acc 74.4% (ep 233) | lr 3.1e-05
+S05 seed43 F1 [fit] Early stop @ ep 383 (best epoch 233)
+S05 seed43 F1 [refit] Ep 001/233 | tr 1.4001 (refit, no early stopping)
+S05 seed43 F1 [refit] Ep 050/233 | tr 0.7891 (refit, no early stopping)
+S05 seed43 F1 [refit] Ep 100/233 | tr 0.6919 (refit, no early stopping)
+S05 seed43 F1 [refit] Ep 150/233 | tr 0.6526 (refit, no early stopping)
+S05 seed43 F1 [refit] Ep 200/233 | tr 0.6101 (refit, no early stopping)
+S05 seed43 F1: test 75.00% (val 74.44%, epochs 233)
+S05 seed44 F1 [fit] Ep 001 | tr 1.4122 | val 26.1% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S05 seed44 F1 [fit] Ep 050 | tr 0.8573 | val 55.0% | best val acc 55.0% (ep 50) | lr 5.0e-04
+S05 seed44 F1 [fit] Ep 100 | tr 0.7109 | val 60.6% | best val acc 63.9% (ep 89) | lr 5.0e-04
+S05 seed44 F1 [fit] Ep 150 | tr 0.6531 | val 65.0% | best val acc 68.3% (ep 148) | lr 5.0e-04
+S05 seed44 F1 [fit] Ep 200 | tr 0.6148 | val 68.3% | best val acc 71.1% (ep 190) | lr 5.0e-04
+S05 seed44 F1 [fit] Ep 250 | tr 0.5755 | val 69.4% | best val acc 72.8% (ep 236) | lr 5.0e-04
+S05 seed44 F1 [fit] Ep 300 | tr 0.5686 | val 66.7% | best val acc 72.8% (ep 236) | lr 5.0e-04
+S05 seed44 F1 [fit] Ep 350 | tr 0.5519 | val 70.0% | best val acc 72.8% (ep 236) | lr 1.3e-04
+S05 seed44 F1 [fit] Early stop @ ep 386 (best epoch 236)
+S05 seed44 F1 [refit] Ep 001/236 | tr 1.4003 (refit, no early stopping)
+S05 seed44 F1 [refit] Ep 050/236 | tr 0.8357 (refit, no early stopping)
+S05 seed44 F1 [refit] Ep 100/236 | tr 0.7412 (refit, no early stopping)
+S05 seed44 F1 [refit] Ep 150/236 | tr 0.6560 (refit, no early stopping)
+S05 seed44 F1 [refit] Ep 200/236 | tr 0.6328 (refit, no early stopping)
+S05 seed44 F1: test 70.62% (val 72.78%, epochs 236)
+S05 seed ensemble (3 seeds): test 81.25% (single seeds 84.4, 75.0, 70.6)
+
+================================================================================
+SUBJECT 06 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C1, C4, C3, CP3, CP1, CP2, CP4, CPz, Pz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S06 [4class] profile=original X=(1040, 12, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S06 seed42 F1 [fit] Ep 001 | tr 1.3992 | val 28.6% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S06 seed42 F1 [fit] Ep 050 | tr 0.8816 | val 53.2% | best val acc 54.1% (ep 49) | lr 5.0e-04
+S06 seed42 F1 [fit] Ep 100 | tr 0.7519 | val 63.6% | best val acc 64.1% (ep 99) | lr 5.0e-04
+S06 seed42 F1 [fit] Ep 150 | tr 0.6405 | val 70.9% | best val acc 72.3% (ep 140) | lr 5.0e-04
+S06 seed42 F1 [fit] Ep 200 | tr 0.5838 | val 75.0% | best val acc 75.0% (ep 200) | lr 5.0e-04
+S06 seed42 F1 [fit] Ep 250 | tr 0.5702 | val 78.2% | best val acc 78.2% (ep 248) | lr 2.5e-04
+S06 seed42 F1 [fit] Ep 300 | tr 0.5450 | val 76.8% | best val acc 78.2% (ep 248) | lr 1.3e-04
+S06 seed42 F1 [fit] Ep 350 | tr 0.5349 | val 76.4% | best val acc 78.2% (ep 248) | lr 6.3e-05
+S06 seed42 F1 [fit] Early stop @ ep 398 (best epoch 248)
+S06 seed42 F1 [refit] Ep 001/248 | tr 1.3996 (refit, no early stopping)
+S06 seed42 F1 [refit] Ep 050/248 | tr 0.8932 (refit, no early stopping)
+S06 seed42 F1 [refit] Ep 100/248 | tr 0.7115 (refit, no early stopping)
+S06 seed42 F1 [refit] Ep 150/248 | tr 0.6611 (refit, no early stopping)
+S06 seed42 F1 [refit] Ep 200/248 | tr 0.6017 (refit, no early stopping)
+S06 seed42 F1: test 81.88% (val 78.18%, epochs 248)
+S06 seed43 F1 [fit] Ep 001 | tr 1.4112 | val 25.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S06 seed43 F1 [fit] Ep 050 | tr 0.8421 | val 63.2% | best val acc 64.5% (ep 48) | lr 5.0e-04
+S06 seed43 F1 [fit] Ep 100 | tr 0.7161 | val 70.5% | best val acc 70.9% (ep 98) | lr 5.0e-04
+S06 seed43 F1 [fit] Ep 150 | tr 0.6374 | val 83.2% | best val acc 83.2% (ep 150) | lr 5.0e-04
+S06 seed43 F1 [fit] Ep 200 | tr 0.5898 | val 84.5% | best val acc 86.4% (ep 187) | lr 5.0e-04
+S06 seed43 F1 [fit] Ep 250 | tr 0.5452 | val 87.7% | best val acc 89.5% (ep 237) | lr 5.0e-04
+S06 seed43 F1 [fit] Ep 300 | tr 0.5365 | val 87.3% | best val acc 89.5% (ep 237) | lr 2.5e-04
+S06 seed43 F1 [fit] Ep 350 | tr 0.5238 | val 87.3% | best val acc 89.5% (ep 237) | lr 2.5e-04
+S06 seed43 F1 [fit] Early stop @ ep 387 (best epoch 237)
+S06 seed43 F1 [refit] Ep 001/237 | tr 1.3955 (refit, no early stopping)
+S06 seed43 F1 [refit] Ep 050/237 | tr 0.8596 (refit, no early stopping)
+S06 seed43 F1 [refit] Ep 100/237 | tr 0.7567 (refit, no early stopping)
+S06 seed43 F1 [refit] Ep 150/237 | tr 0.6123 (refit, no early stopping)
+S06 seed43 F1 [refit] Ep 200/237 | tr 0.5873 (refit, no early stopping)
+S06 seed43 F1: test 81.88% (val 89.55%, epochs 237)
+S06 seed44 F1 [fit] Ep 001 | tr 1.4070 | val 25.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S06 seed44 F1 [fit] Ep 050 | tr 0.9489 | val 55.5% | best val acc 56.4% (ep 47) | lr 5.0e-04
+S06 seed44 F1 [fit] Ep 100 | tr 0.7352 | val 73.2% | best val acc 73.2% (ep 100) | lr 5.0e-04
+S06 seed44 F1 [fit] Ep 150 | tr 0.6118 | val 82.7% | best val acc 82.7% (ep 150) | lr 5.0e-04
+S06 seed44 F1 [fit] Ep 200 | tr 0.5612 | val 83.2% | best val acc 85.0% (ep 196) | lr 5.0e-04
+S06 seed44 F1 [fit] Ep 250 | tr 0.5432 | val 84.1% | best val acc 85.5% (ep 244) | lr 5.0e-04
+S06 seed44 F1 [fit] Ep 300 | tr 0.5267 | val 84.1% | best val acc 85.5% (ep 244) | lr 2.5e-04
+S06 seed44 F1 [fit] Ep 350 | tr 0.5221 | val 85.9% | best val acc 86.8% (ep 330) | lr 2.5e-04
+S06 seed44 F1 [fit] Ep 400 | tr 0.5202 | val 85.0% | best val acc 86.8% (ep 330) | lr 2.5e-04
+S06 seed44 F1 [fit] Ep 450 | tr 0.4975 | val 86.4% | best val acc 86.8% (ep 422) | lr 1.3e-04
+S06 seed44 F1 [fit] Ep 500 | tr 0.4999 | val 86.4% | best val acc 86.8% (ep 478) | lr 1.3e-04
+S06 seed44 F1 [fit] Ep 550 | tr 0.5115 | val 86.4% | best val acc 86.8% (ep 478) | lr 6.3e-05
+S06 seed44 F1 [fit] Ep 600 | tr 0.4949 | val 85.9% | best val acc 86.8% (ep 570) | lr 1.6e-05
+S06 seed44 F1 [refit] Ep 001/570 | tr 1.4121 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 050/570 | tr 0.8947 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 100/570 | tr 0.7130 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 150/570 | tr 0.6466 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 200/570 | tr 0.5884 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 250/570 | tr 0.5712 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 300/570 | tr 0.5493 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 350/570 | tr 0.5487 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 400/570 | tr 0.5404 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 450/570 | tr 0.5429 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 500/570 | tr 0.5441 (refit, no early stopping)
+S06 seed44 F1 [refit] Ep 550/570 | tr 0.5214 (refit, no early stopping)
+S06 seed44 F1: test 85.00% (val 86.82%, epochs 570)
+S06 seed ensemble (3 seeds): test 87.50% (single seeds 81.9, 81.9, 85.0)
+
+================================================================================
+SUBJECT 07 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S07 [4class] profile=original X=(1040, 12, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S07 seed42 F1 [fit] Ep 001 | tr 1.4244 | val 25.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S07 seed42 F1 [fit] Ep 050 | tr 0.8987 | val 55.5% | best val acc 56.4% (ep 49) | lr 5.0e-04
+S07 seed42 F1 [fit] Ep 100 | tr 0.7095 | val 68.6% | best val acc 69.1% (ep 80) | lr 5.0e-04
+S07 seed42 F1 [fit] Ep 150 | tr 0.6572 | val 69.1% | best val acc 70.0% (ep 120) | lr 5.0e-04
+S07 seed42 F1 [fit] Ep 200 | tr 0.6293 | val 73.6% | best val acc 73.6% (ep 200) | lr 5.0e-04
+S07 seed42 F1 [fit] Ep 250 | tr 0.5867 | val 72.3% | best val acc 73.6% (ep 200) | lr 5.0e-04
+S07 seed42 F1 [fit] Ep 300 | tr 0.5591 | val 74.1% | best val acc 75.0% (ep 294) | lr 2.5e-04
+S07 seed42 F1 [fit] Ep 350 | tr 0.5580 | val 72.7% | best val acc 75.0% (ep 294) | lr 1.3e-04
+S07 seed42 F1 [fit] Ep 400 | tr 0.5404 | val 73.2% | best val acc 75.0% (ep 294) | lr 1.3e-04
+S07 seed42 F1 [fit] Early stop @ ep 444 (best epoch 294)
+S07 seed42 F1 [refit] Ep 001/294 | tr 1.4038 (refit, no early stopping)
+S07 seed42 F1 [refit] Ep 050/294 | tr 0.8489 (refit, no early stopping)
+S07 seed42 F1 [refit] Ep 100/294 | tr 0.7124 (refit, no early stopping)
+S07 seed42 F1 [refit] Ep 150/294 | tr 0.6544 (refit, no early stopping)
+S07 seed42 F1 [refit] Ep 200/294 | tr 0.6234 (refit, no early stopping)
+S07 seed42 F1 [refit] Ep 250/294 | tr 0.5883 (refit, no early stopping)
+S07 seed42 F1: test 73.12% (val 75.00%, epochs 294)
+S07 seed43 F1 [fit] Ep 001 | tr 1.4027 | val 27.3% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S07 seed43 F1 [fit] Ep 050 | tr 0.8320 | val 63.2% | best val acc 63.2% (ep 50) | lr 5.0e-04
+S07 seed43 F1 [fit] Ep 100 | tr 0.6943 | val 65.5% | best val acc 69.1% (ep 89) | lr 5.0e-04
+S07 seed43 F1 [fit] Ep 150 | tr 0.6585 | val 70.9% | best val acc 70.9% (ep 150) | lr 5.0e-04
+S07 seed43 F1 [fit] Ep 200 | tr 0.6211 | val 70.5% | best val acc 71.8% (ep 198) | lr 2.5e-04
+S07 seed43 F1 [fit] Ep 250 | tr 0.6024 | val 72.3% | best val acc 72.3% (ep 247) | lr 1.3e-04
+S07 seed43 F1 [fit] Ep 300 | tr 0.6220 | val 71.8% | best val acc 73.2% (ep 253) | lr 3.1e-05
+S07 seed43 F1 [fit] Ep 350 | tr 0.6065 | val 70.9% | best val acc 73.2% (ep 253) | lr 1.6e-05
+S07 seed43 F1 [fit] Ep 400 | tr 0.6118 | val 70.9% | best val acc 73.2% (ep 253) | lr 3.9e-06
+S07 seed43 F1 [fit] Early stop @ ep 403 (best epoch 253)
+S07 seed43 F1 [refit] Ep 001/253 | tr 1.4236 (refit, no early stopping)
+S07 seed43 F1 [refit] Ep 050/253 | tr 0.7826 (refit, no early stopping)
+S07 seed43 F1 [refit] Ep 100/253 | tr 0.6861 (refit, no early stopping)
+S07 seed43 F1 [refit] Ep 150/253 | tr 0.6492 (refit, no early stopping)
+S07 seed43 F1 [refit] Ep 200/253 | tr 0.6487 (refit, no early stopping)
+S07 seed43 F1 [refit] Ep 250/253 | tr 0.6385 (refit, no early stopping)
+S07 seed43 F1: test 74.38% (val 73.18%, epochs 253)
+S07 seed44 F1 [fit] Ep 001 | tr 1.4068 | val 25.5% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S07 seed44 F1 [fit] Ep 050 | tr 0.8776 | val 62.7% | best val acc 62.7% (ep 50) | lr 5.0e-04
+S07 seed44 F1 [fit] Ep 100 | tr 0.7011 | val 67.3% | best val acc 70.0% (ep 68) | lr 5.0e-04
+S07 seed44 F1 [fit] Ep 150 | tr 0.6764 | val 68.6% | best val acc 70.9% (ep 104) | lr 2.5e-04
+S07 seed44 F1 [fit] Ep 200 | tr 0.6693 | val 69.1% | best val acc 70.9% (ep 104) | lr 2.5e-04
+S07 seed44 F1 [fit] Ep 250 | tr 0.6420 | val 70.5% | best val acc 71.4% (ep 214) | lr 1.3e-04
+S07 seed44 F1 [fit] Ep 300 | tr 0.6210 | val 71.4% | best val acc 71.8% (ep 279) | lr 6.3e-05
+S07 seed44 F1 [fit] Ep 350 | tr 0.6382 | val 72.3% | best val acc 72.3% (ep 348) | lr 6.3e-05
+S07 seed44 F1 [fit] Ep 400 | tr 0.6326 | val 72.7% | best val acc 72.7% (ep 383) | lr 6.3e-05
+S07 seed44 F1 [fit] Ep 450 | tr 0.6205 | val 71.8% | best val acc 72.7% (ep 383) | lr 3.1e-05
+S07 seed44 F1 [fit] Ep 500 | tr 0.6182 | val 71.8% | best val acc 72.7% (ep 383) | lr 7.8e-06
+S07 seed44 F1 [fit] Early stop @ ep 533 (best epoch 383)
+S07 seed44 F1 [refit] Ep 001/383 | tr 1.4008 (refit, no early stopping)
+S07 seed44 F1 [refit] Ep 050/383 | tr 0.8364 (refit, no early stopping)
+S07 seed44 F1 [refit] Ep 100/383 | tr 0.7189 (refit, no early stopping)
+S07 seed44 F1 [refit] Ep 150/383 | tr 0.6862 (refit, no early stopping)
+S07 seed44 F1 [refit] Ep 200/383 | tr 0.6575 (refit, no early stopping)
+S07 seed44 F1 [refit] Ep 250/383 | tr 0.6445 (refit, no early stopping)
+S07 seed44 F1 [refit] Ep 300/383 | tr 0.6395 (refit, no early stopping)
+S07 seed44 F1 [refit] Ep 350/383 | tr 0.6610 (refit, no early stopping)
+S07 seed44 F1: test 70.00% (val 72.73%, epochs 383)
+S07 seed ensemble (3 seeds): test 75.00% (single seeds 73.1, 74.4, 70.0)
+
+================================================================================
+SUBJECT 08 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C1, C4, C3, CP3, CP1, CP2, CP4, Pz, CP5, CPz, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S08 [4class] profile=original X=(814, 12, 400) class counts={'feet': 203, 'left_hand': 204, 'rest': 203, 'right_hand': 204}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S08 seed42 F1 [fit] Ep 001 | tr 1.4315 | val 19.5% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S08 seed42 F1 [fit] Ep 050 | tr 0.8767 | val 56.1% | best val acc 56.1% (ep 50) | lr 5.0e-04
+S08 seed42 F1 [fit] Ep 100 | tr 0.7182 | val 75.0% | best val acc 76.8% (ep 83) | lr 5.0e-04
+S08 seed42 F1 [fit] Ep 150 | tr 0.6515 | val 79.9% | best val acc 79.9% (ep 150) | lr 5.0e-04
+S08 seed42 F1 [fit] Ep 200 | tr 0.6152 | val 78.0% | best val acc 81.7% (ep 177) | lr 5.0e-04
+S08 seed42 F1 [fit] Ep 250 | tr 0.5991 | val 80.5% | best val acc 81.7% (ep 242) | lr 2.5e-04
+S08 seed42 F1 [fit] Ep 300 | tr 0.6288 | val 79.3% | best val acc 81.7% (ep 242) | lr 1.3e-04
+S08 seed42 F1 [fit] Ep 350 | tr 0.5730 | val 79.3% | best val acc 81.7% (ep 242) | lr 3.1e-05
+S08 seed42 F1 [fit] Early stop @ ep 392 (best epoch 242)
+S08 seed42 F1 [refit] Ep 001/242 | tr 1.3977 (refit, no early stopping)
+S08 seed42 F1 [refit] Ep 050/242 | tr 0.7445 (refit, no early stopping)
+S08 seed42 F1 [refit] Ep 100/242 | tr 0.6644 (refit, no early stopping)
+S08 seed42 F1 [refit] Ep 150/242 | tr 0.6082 (refit, no early stopping)
+S08 seed42 F1 [refit] Ep 200/242 | tr 0.5726 (refit, no early stopping)
+S08 seed42 F1: test 80.62% (val 81.71%, epochs 242)
+S08 seed43 F1 [fit] Ep 001 | tr 1.4152 | val 37.2% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S08 seed43 F1 [fit] Ep 050 | tr 0.7774 | val 69.5% | best val acc 72.0% (ep 47) | lr 5.0e-04
+S08 seed43 F1 [fit] Ep 100 | tr 0.6830 | val 76.2% | best val acc 77.4% (ep 98) | lr 5.0e-04
+S08 seed43 F1 [fit] Ep 150 | tr 0.6483 | val 77.4% | best val acc 78.7% (ep 147) | lr 5.0e-04
+S08 seed43 F1 [fit] Ep 200 | tr 0.6545 | val 78.0% | best val acc 79.9% (ep 166) | lr 1.3e-04
+S08 seed43 F1 [fit] Ep 250 | tr 0.6267 | val 76.2% | best val acc 79.9% (ep 166) | lr 3.1e-05
+S08 seed43 F1 [fit] Ep 300 | tr 0.6047 | val 78.7% | best val acc 79.9% (ep 166) | lr 1.6e-05
+S08 seed43 F1 [fit] Early stop @ ep 316 (best epoch 166)
+S08 seed43 F1 [refit] Ep 001/166 | tr 1.4278 (refit, no early stopping)
+S08 seed43 F1 [refit] Ep 050/166 | tr 0.7193 (refit, no early stopping)
+S08 seed43 F1 [refit] Ep 100/166 | tr 0.6430 (refit, no early stopping)
+S08 seed43 F1 [refit] Ep 150/166 | tr 0.6092 (refit, no early stopping)
+S08 seed43 F1: test 77.50% (val 79.88%, epochs 166)
+S08 seed44 F1 [fit] Ep 001 | tr 1.4109 | val 29.3% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S08 seed44 F1 [fit] Ep 050 | tr 0.8987 | val 61.0% | best val acc 61.0% (ep 50) | lr 5.0e-04
+S08 seed44 F1 [fit] Ep 100 | tr 0.6970 | val 70.7% | best val acc 72.0% (ep 88) | lr 5.0e-04
+S08 seed44 F1 [fit] Ep 150 | tr 0.6565 | val 73.2% | best val acc 76.2% (ep 124) | lr 5.0e-04
+S08 seed44 F1 [fit] Ep 200 | tr 0.6521 | val 75.0% | best val acc 77.4% (ep 190) | lr 5.0e-04
+S08 seed44 F1 [fit] Ep 250 | tr 0.6188 | val 75.6% | best val acc 77.4% (ep 219) | lr 2.5e-04
+S08 seed44 F1 [fit] Ep 300 | tr 0.6274 | val 75.6% | best val acc 77.4% (ep 219) | lr 6.3e-05
+S08 seed44 F1 [fit] Ep 350 | tr 0.6197 | val 76.2% | best val acc 77.4% (ep 219) | lr 1.6e-05
+S08 seed44 F1 [fit] Early stop @ ep 369 (best epoch 219)
+S08 seed44 F1 [refit] Ep 001/219 | tr 1.3977 (refit, no early stopping)
+S08 seed44 F1 [refit] Ep 050/219 | tr 0.7437 (refit, no early stopping)
+S08 seed44 F1 [refit] Ep 100/219 | tr 0.6669 (refit, no early stopping)
+S08 seed44 F1 [refit] Ep 150/219 | tr 0.6204 (refit, no early stopping)
+S08 seed44 F1 [refit] Ep 200/219 | tr 0.5702 (refit, no early stopping)
+S08 seed44 F1: test 86.25% (val 77.44%, epochs 219)
+S08 seed ensemble (3 seeds): test 83.75% (single seeds 80.6, 77.5, 86.2)
+
+================================================================================
+SUBJECT 09 — relieff_reduced — 4class — session — profile ems — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CPz, FC1, CP5
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S09 [4class] profile=ems X=(1040, 12, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S09 seed42 F1 [fit] Ep 001 | tr 1.4163 | val 25.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S09 seed42 F1 [fit] Ep 050 | tr 1.1366 | val 43.6% | best val acc 43.6% (ep 49) | lr 5.0e-04
+S09 seed42 F1 [fit] Ep 100 | tr 1.0255 | val 48.2% | best val acc 48.2% (ep 100) | lr 2.5e-04
+S09 seed42 F1 [fit] Ep 150 | tr 0.9403 | val 53.2% | best val acc 53.2% (ep 149) | lr 2.5e-04
+S09 seed42 F1 [fit] Ep 200 | tr 0.9273 | val 54.1% | best val acc 55.0% (ep 192) | lr 1.3e-04
+S09 seed42 F1 [fit] Ep 250 | tr 0.8889 | val 55.5% | best val acc 55.9% (ep 238) | lr 6.3e-05
+S09 seed42 F1 [fit] Ep 300 | tr 0.8757 | val 55.5% | best val acc 55.9% (ep 264) | lr 3.1e-05
+S09 seed42 F1 [fit] Ep 350 | tr 0.8730 | val 55.5% | best val acc 55.9% (ep 264) | lr 7.8e-06
+S09 seed42 F1 [fit] Ep 400 | tr 0.8679 | val 55.5% | best val acc 55.9% (ep 264) | lr 3.9e-06
+S09 seed42 F1 [fit] Early stop @ ep 414 (best epoch 264)
+S09 seed42 F1 [refit] Ep 001/264 | tr 1.4223 (refit, no early stopping)
+S09 seed42 F1 [refit] Ep 050/264 | tr 1.1316 (refit, no early stopping)
+S09 seed42 F1 [refit] Ep 100/264 | tr 1.0000 (refit, no early stopping)
+S09 seed42 F1 [refit] Ep 150/264 | tr 0.8833 (refit, no early stopping)
+S09 seed42 F1 [refit] Ep 200/264 | tr 0.8845 (refit, no early stopping)
+S09 seed42 F1 [refit] Ep 250/264 | tr 0.9061 (refit, no early stopping)
+S09 seed42 F1: test 50.00% (val 55.91%, epochs 264)
+S09 seed43 F1 [fit] Ep 001 | tr 1.4276 | val 25.5% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S09 seed43 F1 [fit] Ep 050 | tr 1.1705 | val 48.2% | best val acc 48.2% (ep 50) | lr 5.0e-04
+S09 seed43 F1 [fit] Ep 100 | tr 1.0228 | val 53.2% | best val acc 54.1% (ep 74) | lr 5.0e-04
+S09 seed43 F1 [fit] Ep 150 | tr 0.9394 | val 55.9% | best val acc 55.9% (ep 143) | lr 1.3e-04
+S09 seed43 F1 [fit] Ep 200 | tr 0.9377 | val 55.0% | best val acc 56.4% (ep 198) | lr 6.3e-05
+S09 seed43 F1 [fit] Ep 250 | tr 0.9571 | val 55.5% | best val acc 56.4% (ep 198) | lr 1.6e-05
+S09 seed43 F1 [fit] Ep 300 | tr 0.9456 | val 55.9% | best val acc 56.4% (ep 293) | lr 3.9e-06
+S09 seed43 F1 [fit] Ep 350 | tr 0.8971 | val 55.5% | best val acc 56.4% (ep 293) | lr 2.0e-06
+S09 seed43 F1 [fit] Ep 400 | tr 0.9126 | val 55.5% | best val acc 56.8% (ep 370) | lr 4.9e-07
+S09 seed43 F1 [fit] Ep 450 | tr 0.9489 | val 55.9% | best val acc 56.8% (ep 370) | lr 2.4e-07
+S09 seed43 F1 [fit] Ep 500 | tr 0.9312 | val 55.9% | best val acc 56.8% (ep 472) | lr 6.1e-08
+S09 seed43 F1 [fit] Ep 550 | tr 0.9587 | val 55.9% | best val acc 56.8% (ep 472) | lr 1.5e-08
+S09 seed43 F1 [fit] Ep 600 | tr 0.9335 | val 55.9% | best val acc 56.8% (ep 472) | lr 1.5e-08
+S09 seed43 F1 [refit] Ep 001/472 | tr 1.4247 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 050/472 | tr 1.1114 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 100/472 | tr 0.9863 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 150/472 | tr 0.9139 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 200/472 | tr 0.9045 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 250/472 | tr 0.9015 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 300/472 | tr 0.9295 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 350/472 | tr 0.9182 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 400/472 | tr 0.8971 (refit, no early stopping)
+S09 seed43 F1 [refit] Ep 450/472 | tr 0.9108 (refit, no early stopping)
+S09 seed43 F1: test 53.12% (val 56.82%, epochs 472)
+S09 seed44 F1 [fit] Ep 001 | tr 1.3969 | val 26.8% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S09 seed44 F1 [fit] Ep 050 | tr 1.0967 | val 45.0% | best val acc 45.5% (ep 49) | lr 5.0e-04
+S09 seed44 F1 [fit] Ep 100 | tr 0.9397 | val 55.0% | best val acc 55.5% (ep 97) | lr 5.0e-04
+S09 seed44 F1 [fit] Ep 150 | tr 0.8746 | val 58.2% | best val acc 59.1% (ep 146) | lr 5.0e-04
+S09 seed44 F1 [fit] Ep 200 | tr 0.8363 | val 59.5% | best val acc 60.9% (ep 194) | lr 2.5e-04
+S09 seed44 F1 [fit] Ep 250 | tr 0.7889 | val 60.9% | best val acc 61.4% (ep 225) | lr 2.5e-04
+S09 seed44 F1 [fit] Ep 300 | tr 0.7509 | val 60.9% | best val acc 62.3% (ep 295) | lr 2.5e-04
+S09 seed44 F1 [fit] Ep 350 | tr 0.7287 | val 63.2% | best val acc 64.5% (ep 338) | lr 2.5e-04
+S09 seed44 F1 [fit] Ep 400 | tr 0.7151 | val 64.1% | best val acc 64.5% (ep 375) | lr 2.5e-04
+S09 seed44 F1 [fit] Ep 450 | tr 0.6964 | val 63.6% | best val acc 65.0% (ep 445) | lr 2.5e-04
+S09 seed44 F1 [fit] Ep 500 | tr 0.6684 | val 64.5% | best val acc 65.5% (ep 461) | lr 1.3e-04
+S09 seed44 F1 [fit] Ep 550 | tr 0.6710 | val 64.5% | best val acc 65.5% (ep 461) | lr 6.3e-05
+S09 seed44 F1 [fit] Ep 600 | tr 0.6815 | val 65.0% | best val acc 65.5% (ep 461) | lr 1.6e-05
+S09 seed44 F1 [refit] Ep 001/461 | tr 1.4161 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 050/461 | tr 1.0876 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 100/461 | tr 0.9208 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 150/461 | tr 0.8322 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 200/461 | tr 0.7756 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 250/461 | tr 0.7385 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 300/461 | tr 0.7136 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 350/461 | tr 0.6930 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 400/461 | tr 0.6997 (refit, no early stopping)
+S09 seed44 F1 [refit] Ep 450/461 | tr 0.6573 (refit, no early stopping)
+S09 seed44 F1: test 74.38% (val 65.45%, epochs 461)
+S09 seed ensemble (3 seeds): test 66.25% (single seeds 50.0, 53.1, 74.4)
+
+================================================================================
+SUBJECT 10 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CP5, CPz, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S10 [4class] profile=original X=(1040, 12, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S10 seed42 F1 [fit] Ep 001 | tr 1.4011 | val 25.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S10 seed42 F1 [fit] Ep 050 | tr 0.7915 | val 46.4% | best val acc 46.4% (ep 50) | lr 2.5e-04
+S10 seed42 F1 [fit] Ep 100 | tr 0.6702 | val 68.2% | best val acc 68.2% (ep 99) | lr 2.5e-04
+S10 seed42 F1 [fit] Ep 150 | tr 0.6234 | val 72.7% | best val acc 72.7% (ep 150) | lr 2.5e-04
+S10 seed42 F1 [fit] Ep 200 | tr 0.5907 | val 73.6% | best val acc 74.1% (ep 199) | lr 2.5e-04
+S10 seed42 F1 [fit] Ep 250 | tr 0.5672 | val 76.4% | best val acc 76.4% (ep 224) | lr 2.5e-04
+S10 seed42 F1 [fit] Ep 300 | tr 0.5684 | val 77.7% | best val acc 78.2% (ep 299) | lr 2.5e-04
+S10 seed42 F1 [fit] Ep 350 | tr 0.5349 | val 78.6% | best val acc 78.6% (ep 333) | lr 1.3e-04
+S10 seed42 F1 [fit] Ep 400 | tr 0.5218 | val 78.6% | best val acc 79.5% (ep 389) | lr 1.3e-04
+S10 seed42 F1 [fit] Ep 450 | tr 0.5216 | val 80.0% | best val acc 80.0% (ep 414) | lr 1.3e-04
+S10 seed42 F1 [fit] Ep 500 | tr 0.5048 | val 80.5% | best val acc 81.4% (ep 485) | lr 1.3e-04
+S10 seed42 F1 [fit] Ep 550 | tr 0.5153 | val 81.4% | best val acc 82.3% (ep 545) | lr 1.3e-04
+S10 seed42 F1 [fit] Ep 600 | tr 0.5207 | val 81.8% | best val acc 82.3% (ep 599) | lr 6.3e-05
+S10 seed42 F1 [refit] Ep 001/599 | tr 1.4208 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 050/599 | tr 0.7762 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 100/599 | tr 0.6670 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 150/599 | tr 0.6472 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 200/599 | tr 0.5952 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 250/599 | tr 0.5868 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 300/599 | tr 0.5737 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 350/599 | tr 0.5695 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 400/599 | tr 0.5400 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 450/599 | tr 0.5326 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 500/599 | tr 0.5315 (refit, no early stopping)
+S10 seed42 F1 [refit] Ep 550/599 | tr 0.5280 (refit, no early stopping)
+S10 seed42 F1: test 80.00% (val 82.27%, epochs 599)
+S10 seed43 F1 [fit] Ep 001 | tr 1.3904 | val 25.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S10 seed43 F1 [fit] Ep 050 | tr 0.7144 | val 69.1% | best val acc 69.1% (ep 49) | lr 5.0e-04
+S10 seed43 F1 [fit] Ep 100 | tr 0.6147 | val 80.5% | best val acc 81.4% (ep 94) | lr 5.0e-04
+S10 seed43 F1 [fit] Ep 150 | tr 0.5701 | val 82.7% | best val acc 82.7% (ep 147) | lr 2.5e-04
+S10 seed43 F1 [fit] Ep 200 | tr 0.5546 | val 82.7% | best val acc 82.7% (ep 187) | lr 1.3e-04
+S10 seed43 F1 [fit] Ep 250 | tr 0.5490 | val 82.7% | best val acc 82.7% (ep 223) | lr 1.3e-04
+S10 seed43 F1 [fit] Ep 300 | tr 0.5220 | val 82.3% | best val acc 83.6% (ep 299) | lr 1.3e-04
+S10 seed43 F1 [fit] Ep 350 | tr 0.5456 | val 82.7% | best val acc 83.6% (ep 299) | lr 6.3e-05
+S10 seed43 F1 [fit] Ep 400 | tr 0.5282 | val 82.7% | best val acc 83.6% (ep 299) | lr 3.1e-05
+S10 seed43 F1 [fit] Early stop @ ep 449 (best epoch 299)
+S10 seed43 F1 [refit] Ep 001/299 | tr 1.3893 (refit, no early stopping)
+S10 seed43 F1 [refit] Ep 050/299 | tr 0.6888 (refit, no early stopping)
+S10 seed43 F1 [refit] Ep 100/299 | tr 0.6056 (refit, no early stopping)
+S10 seed43 F1 [refit] Ep 150/299 | tr 0.5631 (refit, no early stopping)
+S10 seed43 F1 [refit] Ep 200/299 | tr 0.5796 (refit, no early stopping)
+S10 seed43 F1 [refit] Ep 250/299 | tr 0.5620 (refit, no early stopping)
+S10 seed43 F1: test 82.50% (val 83.64%, epochs 299)
+S10 seed44 F1 [fit] Ep 001 | tr 1.3886 | val 27.3% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 050 | tr 0.7267 | val 53.2% | best val acc 53.6% (ep 48) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 100 | tr 0.6237 | val 63.6% | best val acc 64.1% (ep 96) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 150 | tr 0.5603 | val 70.5% | best val acc 70.5% (ep 147) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 200 | tr 0.5444 | val 79.1% | best val acc 79.1% (ep 200) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 250 | tr 0.5160 | val 81.8% | best val acc 82.7% (ep 248) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 300 | tr 0.5010 | val 84.1% | best val acc 84.1% (ep 278) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 350 | tr 0.4931 | val 84.1% | best val acc 85.5% (ep 343) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 400 | tr 0.4728 | val 85.9% | best val acc 86.4% (ep 399) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 450 | tr 0.4891 | val 85.9% | best val acc 86.8% (ep 402) | lr 5.0e-04
+S10 seed44 F1 [fit] Ep 500 | tr 0.4699 | val 87.3% | best val acc 88.2% (ep 473) | lr 2.5e-04
+S10 seed44 F1 [fit] Ep 550 | tr 0.4534 | val 86.8% | best val acc 88.2% (ep 473) | lr 1.3e-04
+S10 seed44 F1 [fit] Ep 600 | tr 0.4629 | val 86.8% | best val acc 88.2% (ep 473) | lr 6.3e-05
+S10 seed44 F1 [refit] Ep 001/473 | tr 1.3789 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 050/473 | tr 0.7048 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 100/473 | tr 0.6121 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 150/473 | tr 0.5724 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 200/473 | tr 0.5430 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 250/473 | tr 0.5374 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 300/473 | tr 0.5197 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 350/473 | tr 0.4973 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 400/473 | tr 0.4913 (refit, no early stopping)
+S10 seed44 F1 [refit] Ep 450/473 | tr 0.4903 (refit, no early stopping)
+S10 seed44 F1: test 86.88% (val 88.18%, epochs 473)
+S10 seed ensemble (3 seeds): test 83.75% (single seeds 80.0, 82.5, 86.9)
+
+================================================================================
+SUBJECT 11 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S11 [4class] profile=original X=(1040, 12, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S11 seed42 F1 [fit] Ep 001 | tr 1.4032 | val 26.4% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S11 seed42 F1 [fit] Ep 050 | tr 0.9690 | val 48.6% | best val acc 49.1% (ep 47) | lr 2.5e-04
+S11 seed42 F1 [fit] Ep 100 | tr 0.8834 | val 53.2% | best val acc 53.6% (ep 98) | lr 2.5e-04
+S11 seed42 F1 [fit] Ep 150 | tr 0.8005 | val 60.5% | best val acc 60.5% (ep 150) | lr 2.5e-04
+S11 seed42 F1 [fit] Ep 200 | tr 0.7201 | val 62.3% | best val acc 62.7% (ep 195) | lr 2.5e-04
+S11 seed42 F1 [fit] Ep 250 | tr 0.6953 | val 65.9% | best val acc 65.9% (ep 248) | lr 1.3e-04
+S11 seed42 F1 [fit] Ep 300 | tr 0.6902 | val 66.8% | best val acc 67.3% (ep 274) | lr 6.3e-05
+S11 seed42 F1 [fit] Ep 350 | tr 0.6856 | val 66.8% | best val acc 67.3% (ep 274) | lr 3.1e-05
+S11 seed42 F1 [fit] Ep 400 | tr 0.6808 | val 66.8% | best val acc 67.3% (ep 274) | lr 7.8e-06
+S11 seed42 F1 [fit] Early stop @ ep 424 (best epoch 274)
+S11 seed42 F1 [refit] Ep 001/274 | tr 1.3906 (refit, no early stopping)
+S11 seed42 F1 [refit] Ep 050/274 | tr 0.9387 (refit, no early stopping)
+S11 seed42 F1 [refit] Ep 100/274 | tr 0.8192 (refit, no early stopping)
+S11 seed42 F1 [refit] Ep 150/274 | tr 0.7636 (refit, no early stopping)
+S11 seed42 F1 [refit] Ep 200/274 | tr 0.7375 (refit, no early stopping)
+S11 seed42 F1 [refit] Ep 250/274 | tr 0.7209 (refit, no early stopping)
+S11 seed42 F1: test 73.12% (val 67.27%, epochs 274)
+S11 seed43 F1 [fit] Ep 001 | tr 1.4232 | val 26.4% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S11 seed43 F1 [fit] Ep 050 | tr 0.9916 | val 40.9% | best val acc 46.4% (ep 21) | lr 2.5e-04
+S11 seed43 F1 [fit] Ep 100 | tr 0.9511 | val 48.2% | best val acc 48.2% (ep 95) | lr 1.3e-04
+S11 seed43 F1 [fit] Ep 150 | tr 0.9468 | val 47.7% | best val acc 48.6% (ep 123) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 200 | tr 0.9058 | val 47.7% | best val acc 48.6% (ep 123) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 250 | tr 0.9213 | val 50.5% | best val acc 50.5% (ep 242) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 300 | tr 0.8908 | val 50.5% | best val acc 50.5% (ep 300) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 350 | tr 0.9044 | val 50.0% | best val acc 50.9% (ep 344) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 400 | tr 0.8659 | val 51.8% | best val acc 52.3% (ep 384) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 450 | tr 0.8814 | val 52.7% | best val acc 52.7% (ep 450) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 500 | tr 0.8493 | val 53.2% | best val acc 53.6% (ep 489) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 550 | tr 0.8343 | val 55.0% | best val acc 55.0% (ep 550) | lr 6.3e-05
+S11 seed43 F1 [fit] Ep 600 | tr 0.8382 | val 57.3% | best val acc 57.3% (ep 600) | lr 6.3e-05
+S11 seed43 F1 [refit] Ep 001/600 | tr 1.4004 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 050/600 | tr 0.9942 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 100/600 | tr 0.9408 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 150/600 | tr 0.9464 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 200/600 | tr 0.9230 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 250/600 | tr 0.9220 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 300/600 | tr 0.9104 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 350/600 | tr 0.9009 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 400/600 | tr 0.8776 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 450/600 | tr 0.8369 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 500/600 | tr 0.8205 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 550/600 | tr 0.7990 (refit, no early stopping)
+S11 seed43 F1 [refit] Ep 600/600 | tr 0.8152 (refit, no early stopping)
+S11 seed43 F1: test 68.12% (val 57.27%, epochs 600)
+S11 seed44 F1 [fit] Ep 001 | tr 1.4185 | val 25.9% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S11 seed44 F1 [fit] Ep 050 | tr 0.9857 | val 45.9% | best val acc 48.2% (ep 38) | lr 2.5e-04
+S11 seed44 F1 [fit] Ep 100 | tr 0.9359 | val 49.5% | best val acc 50.0% (ep 98) | lr 1.3e-04
+S11 seed44 F1 [fit] Ep 150 | tr 0.9381 | val 50.5% | best val acc 50.9% (ep 118) | lr 3.1e-05
+S11 seed44 F1 [fit] Ep 200 | tr 0.9201 | val 50.5% | best val acc 50.9% (ep 118) | lr 7.8e-06
+S11 seed44 F1 [fit] Ep 250 | tr 0.9074 | val 50.0% | best val acc 50.9% (ep 118) | lr 3.9e-06
+S11 seed44 F1 [fit] Early stop @ ep 268 (best epoch 118)
+S11 seed44 F1 [refit] Ep 001/118 | tr 1.3857 (refit, no early stopping)
+S11 seed44 F1 [refit] Ep 050/118 | tr 0.9746 (refit, no early stopping)
+S11 seed44 F1 [refit] Ep 100/118 | tr 0.9059 (refit, no early stopping)
+S11 seed44 F1: test 55.00% (val 50.91%, epochs 118)
+S11 seed ensemble (3 seeds): test 71.88% (single seeds 73.1, 68.1, 55.0)
+
+================================================================================
+SUBJECT 12 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S12 [4class] profile=original X=(1040, 12, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S12 seed42 F1 [fit] Ep 001 | tr 1.4075 | val 26.4% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S12 seed42 F1 [fit] Ep 050 | tr 0.7009 | val 72.3% | best val acc 73.2% (ep 48) | lr 5.0e-04
+S12 seed42 F1 [fit] Ep 100 | tr 0.5695 | val 84.5% | best val acc 84.5% (ep 100) | lr 5.0e-04
+S12 seed42 F1 [fit] Ep 150 | tr 0.5316 | val 85.0% | best val acc 85.9% (ep 122) | lr 5.0e-04
+S12 seed42 F1 [fit] Ep 200 | tr 0.4935 | val 86.4% | best val acc 87.3% (ep 190) | lr 5.0e-04
+S12 seed42 F1 [fit] Ep 250 | tr 0.4816 | val 86.4% | best val acc 87.7% (ep 245) | lr 5.0e-04
+S12 seed42 F1 [fit] Ep 300 | tr 0.4658 | val 87.7% | best val acc 88.2% (ep 291) | lr 5.0e-04
+S12 seed42 F1 [fit] Ep 350 | tr 0.4698 | val 88.2% | best val acc 88.6% (ep 345) | lr 5.0e-04
+S12 seed42 F1 [fit] Ep 400 | tr 0.4576 | val 87.7% | best val acc 88.6% (ep 345) | lr 1.3e-04
+S12 seed42 F1 [fit] Ep 450 | tr 0.4497 | val 88.2% | best val acc 88.6% (ep 345) | lr 6.3e-05
+S12 seed42 F1 [fit] Early stop @ ep 495 (best epoch 345)
+S12 seed42 F1 [refit] Ep 001/345 | tr 1.4060 (refit, no early stopping)
+S12 seed42 F1 [refit] Ep 050/345 | tr 0.6991 (refit, no early stopping)
+S12 seed42 F1 [refit] Ep 100/345 | tr 0.5639 (refit, no early stopping)
+S12 seed42 F1 [refit] Ep 150/345 | tr 0.5264 (refit, no early stopping)
+S12 seed42 F1 [refit] Ep 200/345 | tr 0.4812 (refit, no early stopping)
+S12 seed42 F1 [refit] Ep 250/345 | tr 0.4796 (refit, no early stopping)
+S12 seed42 F1 [refit] Ep 300/345 | tr 0.5010 (refit, no early stopping)
+S12 seed42 F1: test 83.12% (val 88.64%, epochs 345)
+S12 seed43 F1 [fit] Ep 001 | tr 1.3967 | val 34.1% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S12 seed43 F1 [fit] Ep 050 | tr 0.6664 | val 75.9% | best val acc 78.2% (ep 49) | lr 5.0e-04
+S12 seed43 F1 [fit] Ep 100 | tr 0.5438 | val 87.3% | best val acc 87.3% (ep 100) | lr 5.0e-04
+S12 seed43 F1 [fit] Ep 150 | tr 0.5023 | val 90.0% | best val acc 90.5% (ep 118) | lr 5.0e-04
+S12 seed43 F1 [fit] Ep 200 | tr 0.4871 | val 92.7% | best val acc 92.7% (ep 200) | lr 5.0e-04
+S12 seed43 F1 [fit] Ep 250 | tr 0.4774 | val 92.7% | best val acc 94.5% (ep 211) | lr 2.5e-04
+S12 seed43 F1 [fit] Ep 300 | tr 0.4669 | val 91.8% | best val acc 94.5% (ep 211) | lr 1.3e-04
+S12 seed43 F1 [fit] Ep 350 | tr 0.4553 | val 92.7% | best val acc 94.5% (ep 211) | lr 3.1e-05
+S12 seed43 F1 [fit] Early stop @ ep 361 (best epoch 211)
+S12 seed43 F1 [refit] Ep 001/211 | tr 1.4007 (refit, no early stopping)
+S12 seed43 F1 [refit] Ep 050/211 | tr 0.6690 (refit, no early stopping)
+S12 seed43 F1 [refit] Ep 100/211 | tr 0.5775 (refit, no early stopping)
+S12 seed43 F1 [refit] Ep 150/211 | tr 0.5188 (refit, no early stopping)
+S12 seed43 F1 [refit] Ep 200/211 | tr 0.4775 (refit, no early stopping)
+S12 seed43 F1: test 73.12% (val 94.55%, epochs 211)
+S12 seed44 F1 [fit] Ep 001 | tr 1.4241 | val 33.6% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S12 seed44 F1 [fit] Ep 050 | tr 0.7140 | val 70.5% | best val acc 70.5% (ep 50) | lr 5.0e-04
+S12 seed44 F1 [fit] Ep 100 | tr 0.5583 | val 82.3% | best val acc 82.3% (ep 100) | lr 5.0e-04
+S12 seed44 F1 [fit] Ep 150 | tr 0.5197 | val 85.0% | best val acc 85.9% (ep 123) | lr 5.0e-04
+S12 seed44 F1 [fit] Ep 200 | tr 0.4957 | val 87.7% | best val acc 88.2% (ep 193) | lr 5.0e-04
+S12 seed44 F1 [fit] Ep 250 | tr 0.4765 | val 88.6% | best val acc 90.0% (ep 249) | lr 5.0e-04
+S12 seed44 F1 [fit] Ep 300 | tr 0.4690 | val 90.0% | best val acc 90.5% (ep 279) | lr 5.0e-04
+S12 seed44 F1 [fit] Ep 350 | tr 0.4634 | val 89.5% | best val acc 90.5% (ep 305) | lr 2.5e-04
+S12 seed44 F1 [fit] Ep 400 | tr 0.4477 | val 89.5% | best val acc 90.5% (ep 387) | lr 1.3e-04
+S12 seed44 F1 [fit] Ep 450 | tr 0.4524 | val 90.5% | best val acc 90.5% (ep 450) | lr 3.1e-05
+S12 seed44 F1 [fit] Ep 500 | tr 0.4456 | val 90.0% | best val acc 90.5% (ep 457) | lr 1.6e-05
+S12 seed44 F1 [fit] Ep 550 | tr 0.4569 | val 90.5% | best val acc 90.9% (ep 539) | lr 7.8e-06
+S12 seed44 F1 [fit] Ep 600 | tr 0.4475 | val 90.5% | best val acc 90.9% (ep 588) | lr 3.9e-06
+S12 seed44 F1 [refit] Ep 001/588 | tr 1.4030 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 050/588 | tr 0.6841 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 100/588 | tr 0.5636 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 150/588 | tr 0.5088 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 200/588 | tr 0.4945 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 250/588 | tr 0.4709 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 300/588 | tr 0.4551 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 350/588 | tr 0.4544 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 400/588 | tr 0.4491 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 450/588 | tr 0.4429 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 500/588 | tr 0.4437 (refit, no early stopping)
+S12 seed44 F1 [refit] Ep 550/588 | tr 0.4492 (refit, no early stopping)
+S12 seed44 F1: test 81.88% (val 90.91%, epochs 588)
+S12 seed ensemble (3 seeds): test 83.75% (single seeds 83.1, 73.1, 81.9)
+
+================================================================================
+SUBJECT 13 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FC1
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S13 [4class] profile=original X=(960, 12, 400) class counts={'feet': 240, 'left_hand': 240, 'rest': 240, 'right_hand': 240}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S13 seed42 F1 [fit] Ep 001 | tr 1.4094 | val 26.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S13 seed42 F1 [fit] Ep 050 | tr 0.8205 | val 49.0% | best val acc 49.0% (ep 50) | lr 5.0e-04
+S13 seed42 F1 [fit] Ep 100 | tr 0.7357 | val 64.0% | best val acc 64.5% (ep 93) | lr 5.0e-04
+S13 seed42 F1 [fit] Ep 150 | tr 0.6655 | val 69.5% | best val acc 70.5% (ep 147) | lr 5.0e-04
+S13 seed42 F1 [fit] Ep 200 | tr 0.6121 | val 74.0% | best val acc 77.0% (ep 190) | lr 5.0e-04
+S13 seed42 F1 [fit] Ep 250 | tr 0.5820 | val 77.5% | best val acc 78.5% (ep 247) | lr 5.0e-04
+S13 seed42 F1 [fit] Ep 300 | tr 0.5251 | val 80.5% | best val acc 82.0% (ep 265) | lr 5.0e-04
+S13 seed42 F1 [fit] Ep 350 | tr 0.5359 | val 80.0% | best val acc 83.0% (ep 311) | lr 5.0e-04
+S13 seed42 F1 [fit] Ep 400 | tr 0.5204 | val 82.5% | best val acc 84.0% (ep 399) | lr 2.5e-04
+S13 seed42 F1 [fit] Ep 450 | tr 0.5343 | val 84.5% | best val acc 84.5% (ep 434) | lr 1.3e-04
+S13 seed42 F1 [fit] Ep 500 | tr 0.5327 | val 83.0% | best val acc 86.0% (ep 478) | lr 6.3e-05
+S13 seed42 F1 [fit] Ep 550 | tr 0.5080 | val 84.0% | best val acc 86.0% (ep 478) | lr 3.1e-05
+S13 seed42 F1 [fit] Ep 600 | tr 0.5097 | val 84.5% | best val acc 86.0% (ep 478) | lr 7.8e-06
+S13 seed42 F1 [refit] Ep 001/478 | tr 1.4175 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 050/478 | tr 0.7946 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 100/478 | tr 0.6700 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 150/478 | tr 0.6129 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 200/478 | tr 0.5627 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 250/478 | tr 0.5494 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 300/478 | tr 0.5338 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 350/478 | tr 0.5129 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 400/478 | tr 0.5203 (refit, no early stopping)
+S13 seed42 F1 [refit] Ep 450/478 | tr 0.5030 (refit, no early stopping)
+S13 seed42 F1: test 83.75% (val 86.00%, epochs 478)
+S13 seed43 F1 [fit] Ep 001 | tr 1.4026 | val 29.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S13 seed43 F1 [fit] Ep 050 | tr 0.8196 | val 53.5% | best val acc 53.5% (ep 50) | lr 5.0e-04
+S13 seed43 F1 [fit] Ep 100 | tr 0.7217 | val 70.5% | best val acc 73.0% (ep 94) | lr 5.0e-04
+S13 seed43 F1 [fit] Ep 150 | tr 0.6611 | val 75.5% | best val acc 77.0% (ep 145) | lr 5.0e-04
+S13 seed43 F1 [fit] Ep 200 | tr 0.6246 | val 79.5% | best val acc 81.0% (ep 197) | lr 5.0e-04
+S13 seed43 F1 [fit] Ep 250 | tr 0.5824 | val 81.0% | best val acc 81.5% (ep 240) | lr 5.0e-04
+S13 seed43 F1 [fit] Ep 300 | tr 0.5458 | val 82.0% | best val acc 82.5% (ep 275) | lr 5.0e-04
+S13 seed43 F1 [fit] Ep 350 | tr 0.5420 | val 79.5% | best val acc 83.0% (ep 329) | lr 2.5e-04
+S13 seed43 F1 [fit] Ep 400 | tr 0.5335 | val 80.5% | best val acc 83.5% (ep 376) | lr 1.3e-04
+S13 seed43 F1 [fit] Ep 450 | tr 0.5630 | val 81.5% | best val acc 83.5% (ep 376) | lr 6.3e-05
+S13 seed43 F1 [fit] Ep 500 | tr 0.5430 | val 81.0% | best val acc 83.5% (ep 376) | lr 1.6e-05
+S13 seed43 F1 [fit] Early stop @ ep 526 (best epoch 376)
+S13 seed43 F1 [refit] Ep 001/376 | tr 1.3970 (refit, no early stopping)
+S13 seed43 F1 [refit] Ep 050/376 | tr 0.7975 (refit, no early stopping)
+S13 seed43 F1 [refit] Ep 100/376 | tr 0.6803 (refit, no early stopping)
+S13 seed43 F1 [refit] Ep 150/376 | tr 0.6336 (refit, no early stopping)
+S13 seed43 F1 [refit] Ep 200/376 | tr 0.5836 (refit, no early stopping)
+S13 seed43 F1 [refit] Ep 250/376 | tr 0.5495 (refit, no early stopping)
+S13 seed43 F1 [refit] Ep 300/376 | tr 0.5235 (refit, no early stopping)
+S13 seed43 F1 [refit] Ep 350/376 | tr 0.5234 (refit, no early stopping)
+S13 seed43 F1: test 79.38% (val 83.50%, epochs 376)
+S13 seed44 F1 [fit] Ep 001 | tr 1.4127 | val 27.5% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S13 seed44 F1 [fit] Ep 050 | tr 0.7911 | val 58.0% | best val acc 60.0% (ep 46) | lr 5.0e-04
+S13 seed44 F1 [fit] Ep 100 | tr 0.6776 | val 71.0% | best val acc 72.0% (ep 98) | lr 5.0e-04
+S13 seed44 F1 [fit] Ep 150 | tr 0.6226 | val 74.0% | best val acc 77.5% (ep 142) | lr 5.0e-04
+S13 seed44 F1 [fit] Ep 200 | tr 0.5957 | val 77.0% | best val acc 79.5% (ep 186) | lr 5.0e-04
+S13 seed44 F1 [fit] Ep 250 | tr 0.5769 | val 79.0% | best val acc 80.0% (ep 234) | lr 2.5e-04
+S13 seed44 F1 [fit] Ep 300 | tr 0.5463 | val 78.0% | best val acc 80.0% (ep 234) | lr 1.3e-04
+S13 seed44 F1 [fit] Ep 350 | tr 0.5582 | val 77.5% | best val acc 80.0% (ep 234) | lr 3.1e-05
+S13 seed44 F1 [fit] Early stop @ ep 384 (best epoch 234)
+S13 seed44 F1 [refit] Ep 001/234 | tr 1.4051 (refit, no early stopping)
+S13 seed44 F1 [refit] Ep 050/234 | tr 0.7476 (refit, no early stopping)
+S13 seed44 F1 [refit] Ep 100/234 | tr 0.6264 (refit, no early stopping)
+S13 seed44 F1 [refit] Ep 150/234 | tr 0.6212 (refit, no early stopping)
+S13 seed44 F1 [refit] Ep 200/234 | tr 0.5719 (refit, no early stopping)
+S13 seed44 F1: test 83.12% (val 80.00%, epochs 234)
+S13 seed ensemble (3 seeds): test 84.38% (single seeds 83.8, 79.4, 83.1)
+
+================================================================================
+SUBJECT 14 — relieff_reduced — 4class — session — profile original — 12 ch: C2, C4, C1, C3, CP3, CP1, CP2, CP4, Pz, CPz, CP5, FCz
+================================================================================
+No stim channel nor annotations found, skipping setting annotations.
+No stim channel nor annotations found, skipping setting annotations.
+  S14 [4class] profile=original X=(1040, 12, 400) class counts={'feet': 260, 'left_hand': 260, 'rest': 260, 'right_hand': 260}
+D:\EEG\braindec\.venv\lib\site-packages\braindecode\models\base.py:180: UserWarning: LogSoftmax final layer will be removed! Please adjust your loss function accordingly (e.g. CrossEntropyLoss)!
+  warnings.warn("LogSoftmax final layer will be removed! " +
+S14 seed42 F1 [fit] Ep 001 | tr 1.4180 | val 25.0% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 050 | tr 0.7507 | val 73.2% | best val acc 75.0% (ep 48) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 100 | tr 0.6317 | val 80.0% | best val acc 82.3% (ep 98) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 150 | tr 0.5174 | val 90.0% | best val acc 91.8% (ep 132) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 200 | tr 0.4882 | val 91.8% | best val acc 91.8% (ep 200) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 250 | tr 0.4663 | val 89.5% | best val acc 91.8% (ep 200) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 300 | tr 0.4602 | val 91.4% | best val acc 93.2% (ep 293) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 350 | tr 0.4561 | val 92.7% | best val acc 95.0% (ep 344) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 400 | tr 0.4402 | val 95.0% | best val acc 95.5% (ep 392) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 450 | tr 0.4418 | val 95.5% | best val acc 96.4% (ep 439) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 500 | tr 0.4346 | val 96.4% | best val acc 96.8% (ep 478) | lr 5.0e-04
+S14 seed42 F1 [fit] Ep 550 | tr 0.4316 | val 95.5% | best val acc 96.8% (ep 478) | lr 2.5e-04
+S14 seed42 F1 [fit] Ep 600 | tr 0.4286 | val 96.4% | best val acc 96.8% (ep 478) | lr 1.3e-04
+S14 seed42 F1 [refit] Ep 001/478 | tr 1.4172 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 050/478 | tr 0.7059 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 100/478 | tr 0.5651 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 150/478 | tr 0.5255 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 200/478 | tr 0.5012 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 250/478 | tr 0.4775 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 300/478 | tr 0.4653 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 350/478 | tr 0.4477 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 400/478 | tr 0.4456 (refit, no early stopping)
+S14 seed42 F1 [refit] Ep 450/478 | tr 0.4414 (refit, no early stopping)
+S14 seed42 F1: test 94.38% (val 96.82%, epochs 478)
+S14 seed43 F1 [fit] Ep 001 | tr 1.4006 | val 22.7% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 050 | tr 0.7174 | val 67.7% | best val acc 67.7% (ep 50) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 100 | tr 0.5750 | val 77.7% | best val acc 77.7% (ep 100) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 150 | tr 0.5192 | val 83.2% | best val acc 84.5% (ep 142) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 200 | tr 0.5043 | val 87.3% | best val acc 88.2% (ep 193) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 250 | tr 0.4730 | val 88.6% | best val acc 90.0% (ep 242) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 300 | tr 0.4580 | val 89.1% | best val acc 91.4% (ep 272) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 350 | tr 0.4535 | val 91.4% | best val acc 91.4% (ep 350) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 400 | tr 0.4337 | val 91.4% | best val acc 92.3% (ep 376) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 450 | tr 0.4355 | val 91.8% | best val acc 92.7% (ep 423) | lr 5.0e-04
+S14 seed43 F1 [fit] Ep 500 | tr 0.4311 | val 92.3% | best val acc 93.2% (ep 488) | lr 1.3e-04
+S14 seed43 F1 [fit] Ep 550 | tr 0.4325 | val 92.7% | best val acc 93.2% (ep 538) | lr 1.3e-04
+S14 seed43 F1 [fit] Ep 600 | tr 0.4283 | val 92.3% | best val acc 93.6% (ep 595) | lr 6.3e-05
+S14 seed43 F1 [refit] Ep 001/595 | tr 1.3933 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 050/595 | tr 0.6607 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 100/595 | tr 0.5618 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 150/595 | tr 0.5357 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 200/595 | tr 0.5049 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 250/595 | tr 0.4839 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 300/595 | tr 0.4801 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 350/595 | tr 0.4667 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 400/595 | tr 0.4555 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 450/595 | tr 0.4506 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 500/595 | tr 0.4392 (refit, no early stopping)
+S14 seed43 F1 [refit] Ep 550/595 | tr 0.4464 (refit, no early stopping)
+S14 seed43 F1: test 93.12% (val 93.64%, epochs 595)
+S14 seed44 F1 [fit] Ep 001 | tr 1.4263 | val 30.5% | best val acc 0.0% (ep 0) | lr 5.0e-04
+S14 seed44 F1 [fit] Ep 050 | tr 0.7408 | val 53.6% | best val acc 53.6% (ep 50) | lr 5.0e-04
+S14 seed44 F1 [fit] Ep 100 | tr 0.5738 | val 75.5% | best val acc 75.9% (ep 99) | lr 5.0e-04
+S14 seed44 F1 [fit] Ep 150 | tr 0.5101 | val 82.3% | best val acc 83.6% (ep 148) | lr 5.0e-04
+S14 seed44 F1 [fit] Ep 200 | tr 0.4883 | val 85.9% | best val acc 85.9% (ep 200) | lr 5.0e-04
+S14 seed44 F1 [fit] Ep 250 | tr 0.4646 | val 86.8% | best val acc 87.7% (ep 232) | lr 5.0e-04
+S14 seed44 F1 [fit] Ep 300 | tr 0.4618 | val 87.3% | best val acc 89.5% (ep 282) | lr 5.0e-04
+S14 seed44 F1 [fit] Ep 350 | tr 0.4506 | val 86.4% | best val acc 89.5% (ep 282) | lr 2.5e-04
+S14 seed44 F1 [fit] Ep 400 | tr 0.4491 | val 88.6% | best val acc 89.5% (ep 282) | lr 6.3e-05
+S14 seed44 F1 [fit] Early stop @ ep 432 (best epoch 282)
+S14 seed44 F1 [refit] Ep 001/282 | tr 1.4053 (refit, no early stopping)
+S14 seed44 F1 [refit] Ep 050/282 | tr 0.7387 (refit, no early stopping)
+S14 seed44 F1 [refit] Ep 100/282 | tr 0.6457 (refit, no early stopping)
+S14 seed44 F1 [refit] Ep 150/282 | tr 0.5579 (refit, no early stopping)
+S14 seed44 F1 [refit] Ep 200/282 | tr 0.5120 (refit, no early stopping)
+S14 seed44 F1 [refit] Ep 250/282 | tr 0.4805 (refit, no early stopping)
+S14 seed44 F1: test 91.25% (val 89.55%, epochs 282)
+S14 seed ensemble (3 seeds): test 93.75% (single seeds 94.4, 93.1, 91.2)
+Results written to D:\EEG\NeuroGrounded-EEG\EEGItNet\HGD\4class\results_session\relieff_reduced (grand mean 80.40% over 14 subjects; chance 25.0%, majority 25.0%)
+Report saved: D:\EEG\NeuroGrounded-EEG\EEGItNet\HGD\4class\results_session\relieff_reduced\relieff_reduced_report.txt
+
+ReliefF 4class: 80.40% +/- 9.86%
